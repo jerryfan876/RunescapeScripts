@@ -1,0 +1,59 @@
+if player gets hit anywhere on the map(not only in the fight zone) it will change state to STATE.FIGHT
+
+maybe we need to add a STATE.RUNAWAY if we get hit when we are not in fight zone, they we keep running
+
+for missing food, we at least one of the food listed in the provided list. and we can get like 5 of it
+
+must learn more about lambda expressions
+
+just used demorgans law in java, fucking mind blowen, the negation of A or B is not A and not B
+
+what if POTIONA is out, but POTIONB is not yet but almost out,
+ -does the script only get more POTIONA, or it gets POTIONA and POTIONb
+    -if thats the case, what does it mean to be 'almost' out
+ -for now, we gunna have bots run alot by not have 'almost' out, they just gunna get what they dont have
+ -OR
+ -there should be a NPC at GE that mix half doses together
+ -that can be done at the end of the day
+
+
+ taking pot from the bank: i check twice if it contains and if it is more than 5, is that redundant?
+ -its not since you can get amount of something that does not already contain, so it is necessary
+
+ the rate at which onLoop refreshes might affect the quality of banking
+
+ read up on iterator and iterable, and how to use hasnext
+
+ bank will always withdraw 10 food, and 5 each potions
+
+ TODO: banking food makes the food into an arrayList
+
+ script must start with BOTH potions in the inventory, or nullpointer exception will occur
+
+ random thought, airplane traveling isnt that bad when you think about how humans gunna be going to mars in a few years
+
+ when couples try to play their video together so that they are in sync
+
+ how to fix the white space indentation? ctrl + l? alt + ctrl + l?????
+
+BUG: taking pot from bank have the issue of there must be enough room in the inventroy(should be enough), to take item from bank into inventory
+
+
+I have a loop
+i need to go throgh the loop one by one
+i need to test each element with a condition, if all condition fails (does inventory contain), then it will be different state
+if condition is true then we run a statment & we also stop the looping process
+if we run out of element in the loop, we also stop the loop
+
+
+while (iterator.hasNext() || )
+
+
+
+
+
+
+
+
+
+

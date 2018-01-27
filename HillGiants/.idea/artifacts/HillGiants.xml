@@ -1,0 +1,8 @@
+<component name="ArtifactManager">
+  <artifact type="jar" name="HillGiants">
+    <output-path>$USER_HOME$/OSBot/Scripts</output-path>
+    <root id="archive" name="HillGiants.jar">
+      <element id="module-output" name="HillGiants" />
+    </root>
+  </artifact>
+</component>

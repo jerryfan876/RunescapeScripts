@@ -1,0 +1,8 @@
+<component name="ArtifactManager">
+  <artifact type="jar" name="AlKharidNoPot">
+    <output-path>$USER_HOME$/OSBot/Scripts</output-path>
+    <root id="archive" name="AlKharidNoPot.jar">
+      <element id="module-output" name="AlKhaidNoPot" />
+    </root>
+  </artifact>
+</component>

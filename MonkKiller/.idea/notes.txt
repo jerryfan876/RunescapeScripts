@@ -1,0 +1,15 @@
+1)area can contain my player
+ EDGEVILLE_MONASTERY.contains(api.myPlayer());
+
+2) state is writen as a venn diagram almost, or a tree, where it starts with one then it can branch in to more
+specific things to get different states
+
+3) when picking who to fight, there must be memory of who is player fighting
+ie. opponent == null; in order for me to search for new
+if not null, then you have a target already
+
+4) This is important in finding the next npc
+(Filter<NPC>) npc -> npc.getName().equals("Monk") && npc.getHealthPercent() > 0
+
+
+

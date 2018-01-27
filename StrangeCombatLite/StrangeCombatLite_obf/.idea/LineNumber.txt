@@ -1,0 +1,25 @@
+
+
+512, declarations of a lot of variables. Mostly for GUI
+
+
+282, potion, how to make all 4 different doses
+
+1546, antiban, shows as player is moving, move camera
+1094, antiban, hows a cool way of moving mouse
+
+
+d(), goes price check but it is super super rare
+a(), ends the script
+
+has methods with is randominzed that changes the randomized number
+
+how to use mouse to click, false is left, true is right
+ this.mouse.click(false);
+  this.log("---Mouse random Left-Click---");
+
+aU is boolean, going to ban or not
+aJ is bank, chosen bank
+aK is GUI
+var7 is object, that is food
+var12 is object,that is potion

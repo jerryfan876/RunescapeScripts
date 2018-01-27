@@ -1,0 +1,8 @@
+<component name="ArtifactManager">
+  <artifact type="jar" name="SandCrabIsland">
+    <output-path>$USER_HOME$/OSBot/Scripts</output-path>
+    <root id="archive" name="SandCrabIsland.jar">
+      <element id="module-output" name="SandCrabIsland" />
+    </root>
+  </artifact>
+</component>
