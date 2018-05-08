@@ -17,18 +17,54 @@
   <component name="CreatePatchCommitExecutor">
     <option name="PATCH_PATH" value="" />
   </component>
-  <component name="ExecutionTargetManager" SELECTED_TARGET="default_target" />
   <component name="FavoritesManager">
     <favorites_list name="CannonKiller" />
   </component>
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
-      <file leaf-file-name="AIOCannonKiller.class" pinned="false" current-in-tab="false">
+      <file leaf-file-name="AIOCannonKiller.class" pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/AIO&amp;CannonKiller/com/script/AIOCannonKiller.class">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="-4947">
-              <caret line="1" column="42" selection-start-line="1" selection-start-column="39" selection-end-line="1" selection-end-column="42" />
-              <folding />
+            <state relative-caret-position="-6647">
+              <caret line="183" column="14" lean-forward="false" selection-start-line="183" selection-start-column="14" selection-end-line="183" selection-end-column="14" />
+              <folding>
+                <marker date="1493973188000" expanded="true" signature="0:104" ph="/.../" />
+                <marker date="1493973188000" expanded="false" signature="134:1119" ph="..." />
+                <marker date="1493973188000" expanded="true" signature="1121:1359" ph="@{...}" />
+                <marker date="1493973188000" expanded="true" signature="2128:2222" ph="{...}" />
+                <marker date="1493973188000" expanded="false" signature="2263:2274" ph=" { " />
+                <marker date="1493973188000" expanded="false" signature="2298:2304" ph=" }" />
+                <marker date="1493973188000" expanded="true" signature="2363:2405" ph="{...}" />
+                <marker date="1493973188000" expanded="true" signature="2433:2860" ph="{...}" />
+                <marker date="1493973188000" expanded="true" signature="2886:3286" ph="{...}" />
+                <marker date="1493973188000" expanded="true" signature="3353:5930" ph="{...}" />
+                <marker date="1493973188000" expanded="true" signature="5984:23569" ph="{...}" />
+                <marker date="1493973188000" expanded="false" signature="17205:17290" ph="evaluate() → {" />
+                <marker date="1493973188000" expanded="false" signature="17470:17513" ph="}" />
+                <marker date="1493973188000" expanded="true" signature="23611:24763" ph="{...}" />
+                <marker date="1493973188000" expanded="false" signature="24794:24805" ph=" { " />
+                <marker date="1493973188000" expanded="false" signature="24824:24830" ph=" }" />
+                <marker date="1493973188000" expanded="true" signature="24895:26953" ph="{...}" />
+                <marker date="1493973188000" expanded="true" signature="27014:28396" ph="{...}" />
+                <marker date="1493973188000" expanded="true" signature="28473:28791" ph="{...}" />
+                <marker date="1493973188000" expanded="true" signature="28827:29232" ph="{...}" />
+                <marker date="1493973188000" expanded="true" signature="29272:30847" ph="{...}" />
+                <marker date="1493973188000" expanded="true" signature="30919:31082" ph="{...}" />
+                <marker date="1493973188000" expanded="true" signature="31119:31357" ph="{...}" />
+                <marker date="1493973188000" expanded="true" signature="31420:32212" ph="{...}" />
+                <marker date="1493973188000" expanded="true" signature="32274:33338" ph="{...}" />
+                <marker date="1493973188000" expanded="true" signature="33378:33729" ph="{...}" />
+                <marker date="1493973188000" expanded="true" signature="33765:34386" ph="{...}" />
+                <marker date="1493973188000" expanded="false" signature="34165:34226" ph="evaluate() → {" />
+                <marker date="1493973188000" expanded="false" signature="34318:34337" ph="}" />
+                <marker date="1493973188000" expanded="true" signature="34441:38519" ph="{...}" />
+                <marker date="1493973188000" expanded="true" signature="38582:38767" ph="{...}" />
+                <marker date="1493973188000" expanded="true" signature="38831:39072" ph="{...}" />
+                <marker date="1493973188000" expanded="true" signature="39126:39817" ph="{...}" />
+                <marker date="1493973188000" expanded="true" signature="39868:40107" ph="{...}" />
+                <marker date="1493973188000" expanded="true" signature="40146:40439" ph="{...}" />
+                <marker date="1493973188000" expanded="true" signature="40422:40433" ph="{}" />
+              </folding>
             </state>
           </provider>
         </entry>
@@ -37,9 +73,13 @@
         <entry file="file://$PROJECT_DIR$/AIO&amp;CannonKiller/com/script/data/SafetyTeleport.class">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="0">
-              <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+              <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
               <folding>
-                <element signature="e#0#492#0" expanded="true" />
+                <marker date="1493957150000" expanded="false" signature="0:104" ph="/.../" />
+                <marker date="1493957150000" expanded="false" signature="403:414" ph=" { " />
+                <marker date="1493957150000" expanded="false" signature="427:433" ph=" }" />
+                <marker date="1493957150000" expanded="false" signature="457:468" ph=" { " />
+                <marker date="1493957150000" expanded="false" signature="483:489" ph=" }" />
               </folding>
             </state>
           </provider>
@@ -48,10 +88,36 @@
       <file leaf-file-name="Gui.class" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/AIO&amp;CannonKiller/com/script/gui/Gui.class">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="0">
-              <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+            <state relative-caret-position="238">
+              <caret line="64" column="99" lean-forward="false" selection-start-line="64" selection-start-column="99" selection-end-line="64" selection-end-column="99" />
               <folding>
-                <element signature="e#0#13306#0" expanded="true" />
+                <marker date="1493957150000" expanded="false" signature="0:104" ph="/.../" />
+                <marker date="1493957150000" expanded="false" signature="138:900" ph="..." />
+                <marker date="1493957150000" expanded="true" signature="1993:2061" ph="{...}" />
+                <marker date="1493957150000" expanded="true" signature="2103:3220" ph="{...}" />
+                <marker date="1493957150000" expanded="true" signature="3263:3634" ph="{...}" />
+                <marker date="1493957150000" expanded="true" signature="3682:4229" ph="{...}" />
+                <marker date="1493957150000" expanded="true" signature="4265:12900" ph="{...}" />
+                <marker date="1493957150000" expanded="false" signature="8008:8087" ph="actionPerformed(e) → {" />
+                <marker date="1493957150000" expanded="false" signature="8368:8383" ph="}" />
+                <marker date="1493957150000" expanded="false" signature="8899:8978" ph="actionPerformed(e) → {" />
+                <marker date="1493957150000" expanded="false" signature="9250:9265" ph="}" />
+                <marker date="1493957150000" expanded="false" signature="10832:10911" ph="actionPerformed(e) → {" />
+                <marker date="1493957150000" expanded="false" signature="10970:10985" ph="}" />
+                <marker date="1493957150000" expanded="false" signature="11381:11460" ph="actionPerformed(e) → {" />
+                <marker date="1493957150000" expanded="false" signature="11524:11539" ph="}" />
+                <marker date="1493957150000" expanded="false" signature="11865:11961" ph="actionPerformed(e) → { " />
+                <marker date="1493957150000" expanded="false" signature="11981:12005" ph=" }" />
+                <marker date="1493957150000" expanded="true" signature="12946:12953" ph="{}" />
+                <marker date="1493957150000" expanded="true" signature="13002:13076" ph="{...}" />
+                <marker date="1493957150000" expanded="true" signature="13125:13132" ph="{}" />
+                <marker date="1493957150000" expanded="true" signature="13178:13189" ph=" { " />
+                <marker date="1493957150000" expanded="true" signature="13220:13226" ph=" }" />
+                <marker date="1493957150000" expanded="true" signature="13277:13284" ph="{}" />
+                <marker date="1493957150000" expanded="true" signature="13335:13342" ph="{}" />
+                <marker date="1493957150000" expanded="false" signature="13390:13401" ph=" { " />
+                <marker date="1493957150000" expanded="false" signature="13420:13426" ph=" }" />
+                <marker date="1493957150000" expanded="true" signature="13472:13479" ph="{}" />
               </folding>
             </state>
           </provider>
@@ -60,10 +126,21 @@
       <file leaf-file-name="Stopwatch.class" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/AIO&amp;CannonKiller/com/script/util/Stopwatch.class">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="-76">
-              <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+            <state relative-caret-position="0">
+              <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
               <folding>
-                <element signature="e#0#832#0" expanded="true" />
+                <marker date="1493957150000" expanded="false" signature="0:104" ph="/.../" />
+                <marker date="1493957150000" expanded="true" signature="255:341" ph="{...}" />
+                <marker date="1493957150000" expanded="true" signature="378:429" ph="{...}" />
+                <marker date="1493957150000" expanded="true" signature="460:536" ph="{...}" />
+                <marker date="1493957150000" expanded="false" signature="563:574" ph=" { " />
+                <marker date="1493957150000" expanded="false" signature="620:626" ph=" }" />
+                <marker date="1493957150000" expanded="false" signature="665:676" ph=" { " />
+                <marker date="1493957150000" expanded="false" signature="706:712" ph=" }" />
+                <marker date="1493957150000" expanded="false" signature="739:750" ph=" { " />
+                <marker date="1493957150000" expanded="false" signature="767:773" ph=" }" />
+                <marker date="1493957150000" expanded="false" signature="797:808" ph=" { " />
+                <marker date="1493957150000" expanded="false" signature="823:829" ph=" }" />
               </folding>
             </state>
           </provider>
@@ -73,9 +150,38 @@
         <entry file="file://$PROJECT_DIR$/AIO&amp;CannonKiller/com/script/util/XPTracker.class">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="0">
-              <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+              <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
               <folding>
-                <element signature="e#0#4873#0" expanded="true" />
+                <marker date="1493957150000" expanded="false" signature="0:104" ph="/.../" />
+                <marker date="1493957150000" expanded="false" signature="139:236" ph="..." />
+                <marker date="1493957150000" expanded="true" signature="571:851" ph="{...}" />
+                <marker date="1493957150000" expanded="true" signature="877:1151" ph="{...}" />
+                <marker date="1493957150000" expanded="true" signature="1179:1518" ph="{...}" />
+                <marker date="1493957150000" expanded="true" signature="1572:1821" ph="{...}" />
+                <marker date="1493957150000" expanded="true" signature="1893:2128" ph="{...}" />
+                <marker date="1493957150000" expanded="true" signature="2200:2290" ph="{...}" />
+                <marker date="1493957150000" expanded="true" signature="2333:2450" ph="{...}" />
+                <marker date="1493957150000" expanded="true" signature="2498:2612" ph="{...}" />
+                <marker date="1493957150000" expanded="true" signature="2662:3049" ph="{...}" />
+                <marker date="1493957150000" expanded="true" signature="3117:3414" ph="{...}" />
+                <marker date="1493957150000" expanded="true" signature="3462:3585" ph="{...}" />
+                <marker date="1493957150000" expanded="true" signature="3624:3803" ph="{...}" />
+                <marker date="1493957150000" expanded="false" signature="3835:3846" ph=" { " />
+                <marker date="1493957150000" expanded="false" signature="3865:3871" ph=" }" />
+                <marker date="1493957150000" expanded="true" signature="3923:4028" ph="{...}" />
+                <marker date="1493957150000" expanded="false" signature="4060:4071" ph=" { " />
+                <marker date="1493957150000" expanded="false" signature="4093:4099" ph=" }" />
+                <marker date="1493957150000" expanded="false" signature="4129:4140" ph=" { " />
+                <marker date="1493957150000" expanded="false" signature="4160:4166" ph=" }" />
+                <marker date="1493957150000" expanded="true" signature="4216:4314" ph="{...}" />
+                <marker date="1493957150000" expanded="false" signature="4362:4373" ph=" { " />
+                <marker date="1493957150000" expanded="false" signature="4425:4431" ph=" }" />
+                <marker date="1493957150000" expanded="false" signature="4474:4485" ph=" { " />
+                <marker date="1493957150000" expanded="false" signature="4533:4539" ph=" }" />
+                <marker date="1493957150000" expanded="false" signature="4570:4581" ph=" { " />
+                <marker date="1493957150000" expanded="false" signature="4600:4606" ph=" }" />
+                <marker date="1493957150000" expanded="true" signature="4650:4742" ph="{...}" />
+                <marker date="1493957150000" expanded="true" signature="4788:4882" ph="{...}" />
               </folding>
             </state>
           </provider>
@@ -85,9 +191,10 @@
         <entry file="file://$PROJECT_DIR$/AIO&amp;CannonKiller/com/script/data/Overheads.class">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="0">
-              <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+              <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
               <folding>
-                <element signature="e#0#276#0" expanded="true" />
+                <marker date="1493957150000" expanded="false" signature="0:104" ph="/.../" />
+                <marker date="1493957150000" expanded="true" signature="266:273" ph="{}" />
               </folding>
             </state>
           </provider>
@@ -97,18 +204,89 @@
         <entry file="file://$PROJECT_DIR$/AIO&amp;CannonKiller/com/script/data/Food.class">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="17">
-              <caret line="1" column="42" selection-start-line="1" selection-start-column="39" selection-end-line="1" selection-end-column="42" />
-              <folding />
+              <caret line="1" column="42" lean-forward="false" selection-start-line="1" selection-start-column="39" selection-end-line="1" selection-end-column="42" />
+              <folding>
+                <marker date="1493957150000" expanded="true" signature="0:104" ph="/.../" />
+                <marker date="1493957150000" expanded="false" signature="139:179" ph="..." />
+                <marker date="1493957150000" expanded="true" signature="657:866" ph="{...}" />
+                <marker date="1493957150000" expanded="true" signature="895:1022" ph="{...}" />
+                <marker date="1493957150000" expanded="false" signature="1064:1075" ph=" { " />
+                <marker date="1493957150000" expanded="false" signature="1100:1106" ph=" }" />
+              </folding>
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="Preferences.class" pinned="false" current-in-tab="true">
+      <file leaf-file-name="Preferences.class" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/AIO&amp;CannonKiller/com/script/Preferences.class">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="170">
-              <caret line="94" column="8" selection-start-line="94" selection-start-column="8" selection-end-line="94" selection-end-column="8" />
-              <folding />
+            <state relative-caret-position="663">
+              <caret line="57" column="34" lean-forward="false" selection-start-line="57" selection-start-column="34" selection-end-line="57" selection-end-column="34" />
+              <folding>
+                <marker date="1493957150000" expanded="false" signature="0:104" ph="/.../" />
+                <marker date="1493957150000" expanded="false" signature="134:319" ph="..." />
+                <marker date="1493957150000" expanded="true" signature="945:1075" ph="{...}" />
+                <marker date="1493957150000" expanded="false" signature="1113:1124" ph=" { " />
+                <marker date="1493957150000" expanded="false" signature="1144:1150" ph=" }" />
+                <marker date="1493957150000" expanded="false" signature="1200:1211" ph=" { " />
+                <marker date="1493957150000" expanded="false" signature="1234:1240" ph=" }" />
+                <marker date="1493957150000" expanded="false" signature="1275:1286" ph=" { " />
+                <marker date="1493957150000" expanded="false" signature="1303:1309" ph=" }" />
+                <marker date="1493957150000" expanded="false" signature="1353:1364" ph=" { " />
+                <marker date="1493957150000" expanded="false" signature="1381:1387" ph=" }" />
+                <marker date="1493957150000" expanded="false" signature="1414:1425" ph=" { " />
+                <marker date="1493957150000" expanded="false" signature="1442:1448" ph=" }" />
+                <marker date="1493957150000" expanded="true" signature="1484:1495" ph=" { " />
+                <marker date="1493957150000" expanded="true" signature="1512:1518" ph=" }" />
+                <marker date="1493957150000" expanded="false" signature="1559:1570" ph=" { " />
+                <marker date="1493957150000" expanded="false" signature="1597:1603" ph=" }" />
+                <marker date="1493957150000" expanded="false" signature="1669:1680" ph=" { " />
+                <marker date="1493957150000" expanded="false" signature="1717:1723" ph=" }" />
+                <marker date="1493957150000" expanded="true" signature="1759:1770" ph=" { " />
+                <marker date="1493957150000" expanded="true" signature="1798:1804" ph=" }" />
+                <marker date="1493957150000" expanded="false" signature="1863:1874" ph=" { " />
+                <marker date="1493957150000" expanded="false" signature="1913:1919" ph=" }" />
+                <marker date="1493957150000" expanded="false" signature="1956:1967" ph=" { " />
+                <marker date="1493957150000" expanded="false" signature="1989:1995" ph=" }" />
+                <marker date="1493957150000" expanded="false" signature="2046:2057" ph=" { " />
+                <marker date="1493957150000" expanded="false" signature="2084:2090" ph=" }" />
+                <marker date="1493957150000" expanded="false" signature="2127:2138" ph=" { " />
+                <marker date="1493957150000" expanded="false" signature="2167:2173" ph=" }" />
+                <marker date="1493957150000" expanded="false" signature="2234:2245" ph=" { " />
+                <marker date="1493957150000" expanded="false" signature="2286:2292" ph=" }" />
+                <marker date="1493957150000" expanded="true" signature="2331:2342" ph=" { " />
+                <marker date="1493957150000" expanded="true" signature="2372:2378" ph=" }" />
+                <marker date="1493957150000" expanded="false" signature="2442:2453" ph=" { " />
+                <marker date="1493957150000" expanded="false" signature="2496:2502" ph=" }" />
+                <marker date="1493957150000" expanded="true" signature="2541:2552" ph=" { " />
+                <marker date="1493957150000" expanded="true" signature="2581:2587" ph=" }" />
+                <marker date="1493957150000" expanded="false" signature="2650:2661" ph=" { " />
+                <marker date="1493957150000" expanded="false" signature="2702:2708" ph=" }" />
+                <marker date="1493957150000" expanded="false" signature="2746:2757" ph=" { " />
+                <marker date="1493957150000" expanded="false" signature="2783:2789" ph=" }" />
+                <marker date="1493957150000" expanded="false" signature="2846:2857" ph=" { " />
+                <marker date="1493957150000" expanded="false" signature="2892:2898" ph=" }" />
+                <marker date="1493957150000" expanded="false" signature="2936:2947" ph=" { " />
+                <marker date="1493957150000" expanded="false" signature="2973:2979" ph=" }" />
+                <marker date="1493957150000" expanded="false" signature="3036:3047" ph=" { " />
+                <marker date="1493957150000" expanded="false" signature="3082:3088" ph=" }" />
+                <marker date="1493957150000" expanded="false" signature="3132:3143" ph=" { " />
+                <marker date="1493957150000" expanded="false" signature="3175:3181" ph=" }" />
+                <marker date="1493957150000" expanded="false" signature="3250:3261" ph=" { " />
+                <marker date="1493957150000" expanded="false" signature="3308:3314" ph=" }" />
+                <marker date="1493957150000" expanded="false" signature="3357:3368" ph=" { " />
+                <marker date="1493957150000" expanded="false" signature="3397:3403" ph=" }" />
+                <marker date="1493957150000" expanded="false" signature="3467:3478" ph=" { " />
+                <marker date="1493957150000" expanded="false" signature="3519:3525" ph=" }" />
+                <marker date="1493957150000" expanded="false" signature="3563:3574" ph=" { " />
+                <marker date="1493957150000" expanded="false" signature="3600:3606" ph=" }" />
+                <marker date="1493957150000" expanded="false" signature="3662:3673" ph=" { " />
+                <marker date="1493957150000" expanded="false" signature="3708:3714" ph=" }" />
+                <marker date="1493957150000" expanded="false" signature="3753:3764" ph=" { " />
+                <marker date="1493957150000" expanded="false" signature="3791:3797" ph=" }" />
+                <marker date="1493957150000" expanded="false" signature="3855:3866" ph=" { " />
+                <marker date="1493957150000" expanded="false" signature="3903:3909" ph=" }" />
+              </folding>
             </state>
           </provider>
         </entry>
@@ -117,8 +295,11 @@
         <entry file="file://$PROJECT_DIR$/AIO&amp;CannonKiller/com/script/Static.class">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="0">
-              <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-              <folding />
+              <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+              <folding>
+                <marker date="1493957150000" expanded="false" signature="0:104" ph="/.../" />
+                <marker date="1493957150000" expanded="true" signature="751:758" ph="{}" />
+              </folding>
             </state>
           </provider>
         </entry>
@@ -132,19 +313,8 @@
   </component>
   <component name="ProjectFrameBounds">
     <option name="x" value="-8" />
-    <option name="y" value="-8" />
     <option name="width" value="1382" />
-    <option name="height" value="744" />
-  </component>
-  <component name="ProjectLevelVcsManager" settingsEditedManually="false">
-    <OptionsSetting value="true" id="Add" />
-    <OptionsSetting value="true" id="Remove" />
-    <OptionsSetting value="true" id="Checkout" />
-    <OptionsSetting value="true" id="Update" />
-    <OptionsSetting value="true" id="Status" />
-    <OptionsSetting value="true" id="Edit" />
-    <ConfirmationsSetting value="0" id="Add" />
-    <ConfirmationsSetting value="0" id="Remove" />
+    <option name="height" value="775" />
   </component>
   <component name="ProjectView">
     <navigator currentView="ProjectPane" proportions="" version="1">
@@ -161,160 +331,85 @@
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
+      <pane id="PackagesPane" />
       <pane id="ProjectPane">
         <subPane>
-          <PATH>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="CannonKiller" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
-            </PATH_ELEMENT>
-          </PATH>
-          <PATH>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="CannonKiller" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="CannonKiller" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-          </PATH>
-          <PATH>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="CannonKiller" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="CannonKiller" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="AIO&amp;CannonKiller" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-          </PATH>
-          <PATH>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="CannonKiller" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="CannonKiller" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="AIO&amp;CannonKiller" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="META-INF" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-          </PATH>
-          <PATH>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="CannonKiller" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="CannonKiller" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="AIO&amp;CannonKiller" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="com" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="script" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-          </PATH>
-          <PATH>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="CannonKiller" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="CannonKiller" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="AIO&amp;CannonKiller" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="com" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="script" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="util" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-          </PATH>
-          <PATH>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="CannonKiller" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="CannonKiller" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="AIO&amp;CannonKiller" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="com" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="script" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="gui" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-          </PATH>
-          <PATH>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="CannonKiller" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="CannonKiller" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="AIO&amp;CannonKiller" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="com" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="script" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="data" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-          </PATH>
+          <expand>
+            <path>
+              <item name="CannonKiller" type="b2602c69:ProjectViewProjectNode" />
+              <item name="CannonKiller" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="CannonKiller" type="b2602c69:ProjectViewProjectNode" />
+              <item name="CannonKiller" type="462c0819:PsiDirectoryNode" />
+              <item name=".idea" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="CannonKiller" type="b2602c69:ProjectViewProjectNode" />
+              <item name="CannonKiller" type="462c0819:PsiDirectoryNode" />
+              <item name="AIO&amp;CannonKiller" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="CannonKiller" type="b2602c69:ProjectViewProjectNode" />
+              <item name="CannonKiller" type="462c0819:PsiDirectoryNode" />
+              <item name="AIO&amp;CannonKiller" type="462c0819:PsiDirectoryNode" />
+              <item name="com" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="CannonKiller" type="b2602c69:ProjectViewProjectNode" />
+              <item name="CannonKiller" type="462c0819:PsiDirectoryNode" />
+              <item name="AIO&amp;CannonKiller" type="462c0819:PsiDirectoryNode" />
+              <item name="com" type="462c0819:PsiDirectoryNode" />
+              <item name="script" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="CannonKiller" type="b2602c69:ProjectViewProjectNode" />
+              <item name="CannonKiller" type="462c0819:PsiDirectoryNode" />
+              <item name="AIO&amp;CannonKiller" type="462c0819:PsiDirectoryNode" />
+              <item name="com" type="462c0819:PsiDirectoryNode" />
+              <item name="script" type="462c0819:PsiDirectoryNode" />
+              <item name="data" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="CannonKiller" type="b2602c69:ProjectViewProjectNode" />
+              <item name="CannonKiller" type="462c0819:PsiDirectoryNode" />
+              <item name="AIO&amp;CannonKiller" type="462c0819:PsiDirectoryNode" />
+              <item name="com" type="462c0819:PsiDirectoryNode" />
+              <item name="script" type="462c0819:PsiDirectoryNode" />
+              <item name="gui" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="CannonKiller" type="b2602c69:ProjectViewProjectNode" />
+              <item name="CannonKiller" type="462c0819:PsiDirectoryNode" />
+              <item name="AIO&amp;CannonKiller" type="462c0819:PsiDirectoryNode" />
+              <item name="com" type="462c0819:PsiDirectoryNode" />
+              <item name="script" type="462c0819:PsiDirectoryNode" />
+              <item name="util" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="CannonKiller" type="b2602c69:ProjectViewProjectNode" />
+              <item name="CannonKiller" type="462c0819:PsiDirectoryNode" />
+              <item name="work0.2" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="CannonKiller" type="b2602c69:ProjectViewProjectNode" />
+              <item name="CannonKiller" type="462c0819:PsiDirectoryNode" />
+              <item name="work0.2" type="462c0819:PsiDirectoryNode" />
+              <item name=".idea" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="CannonKiller" type="b2602c69:ProjectViewProjectNode" />
+              <item name="CannonKiller" type="462c0819:PsiDirectoryNode" />
+              <item name="work0.2" type="462c0819:PsiDirectoryNode" />
+              <item name=".idea" type="462c0819:PsiDirectoryNode" />
+              <item name="artifacts" type="462c0819:PsiDirectoryNode" />
+            </path>
+          </expand>
+          <select />
         </subPane>
       </pane>
+      <pane id="AndroidView" />
       <pane id="Scratches" />
-      <pane id="PackagesPane" />
       <pane id="Scope" />
     </panes>
   </component>
@@ -324,7 +419,19 @@
     <property name="project.structure.side.proportion" value="0.2" />
     <property name="settings.editor.selected.configurable" value="vcs.Subversion" />
     <property name="settings.editor.splitter.proportion" value="0.2" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/../GobinNoPotion" />
+  </component>
+  <component name="RunDashboard">
+    <option name="ruleStates">
+      <list>
+        <RuleState>
+          <option name="name" value="ConfigurationTypeDashboardGroupingRule" />
+        </RuleState>
+        <RuleState>
+          <option name="name" value="StatusDashboardGroupingRule" />
+        </RuleState>
+      </list>
+    </option>
   </component>
   <component name="RunManager">
     <configuration default="true" type="Applet" factoryName="Applet">
@@ -333,7 +440,6 @@
       <option name="HEIGHT" value="300" />
       <option name="POLICY_FILE" value="$APPLICATION_HOME_DIR$/bin/appletviewer.policy" />
       <module />
-      <method />
     </configuration>
     <configuration default="true" type="Application" factoryName="Application">
       <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea" />
@@ -348,7 +454,6 @@
       <option name="PASS_PARENT_ENVS" value="true" />
       <module name="" />
       <envs />
-      <method />
     </configuration>
     <configuration default="true" type="JUnit" factoryName="JUnit">
       <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea" />
@@ -369,7 +474,6 @@
       </option>
       <envs />
       <patterns />
-      <method />
     </configuration>
     <configuration default="true" type="Remote" factoryName="Remote">
       <option name="USE_SOCKET_TRANSPORT" value="true" />
@@ -377,20 +481,46 @@
       <option name="SHMEM_ADDRESS" value="javadebug" />
       <option name="HOST" value="localhost" />
       <option name="PORT" value="5005" />
-      <method />
     </configuration>
-    <configuration name="&lt;template&gt;" type="TestNG" default="true" selected="false">
+    <configuration default="true" type="TestNG" factoryName="TestNG">
+      <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea" />
+      <module name="" />
+      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
+      <option name="ALTERNATIVE_JRE_PATH" />
+      <option name="SUITE_NAME" />
+      <option name="PACKAGE_NAME" />
       <option name="MAIN_CLASS_NAME" />
+      <option name="METHOD_NAME" />
+      <option name="GROUP_NAME" />
+      <option name="TEST_OBJECT" value="CLASS" />
       <option name="VM_PARAMETERS" value="-ea" />
       <option name="PARAMETERS" />
       <option name="WORKING_DIRECTORY" value="$MODULE_DIR$" />
+      <option name="OUTPUT_DIRECTORY" />
+      <option name="ANNOTATION_TYPE" />
+      <option name="ENV_VARIABLES" />
+      <option name="PASS_PARENT_ENVS" value="true" />
+      <option name="TEST_SEARCH_SCOPE">
+        <value defaultName="singleModule" />
+      </option>
+      <option name="USE_DEFAULT_REPORTERS" value="false" />
+      <option name="PROPERTIES_FILE" />
+      <envs />
+      <properties />
+      <listeners />
     </configuration>
-    <configuration name="&lt;template&gt;" type="#org.jetbrains.idea.devkit.run.PluginConfigurationType" default="true" selected="false">
+    <configuration default="true" type="#org.jetbrains.idea.devkit.run.PluginConfigurationType" factoryName="Plugin">
+      <module name="" />
       <option name="VM_PARAMETERS" value="-Xmx512m -Xms256m -XX:MaxPermSize=250m -ea" />
+      <option name="PROGRAM_PARAMETERS" />
+      <predefined_log_file id="idea.log" enabled="true" />
     </configuration>
   </component>
   <component name="ShelveChangesManager" show_recycled="false">
     <option name="remove_strategy" value="false" />
+  </component>
+  <component name="SvnConfiguration" myUseAcceleration="nothing">
+    <configuration>C:\Users\jerry\AppData\Roaming\Subversion</configuration>
   </component>
   <component name="TaskManager">
     <task active="true" id="Default" summary="Default task">
@@ -403,23 +533,34 @@
     <servers />
   </component>
   <component name="ToolWindowManager">
-    <frame x="-8" y="-8" width="1382" height="744" extended-state="6" />
-    <editor active="false" />
+    <frame x="-8" y="0" width="1382" height="775" extended-state="0" />
     <layout>
+      <window_info id="Palette" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
       <window_info id="Palette&#9;" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
+      <window_info id="Image Layers" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
       <window_info id="Capture Analysis" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
       <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="0" side_tool="true" content_ui="tabs" />
+      <window_info id="Maven Projects" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
-      <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
+      <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="false" weight="0.33" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
       <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
       <window_info id="Capture Tool" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
       <window_info id="Designer" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
-      <window_info id="Project" active="true" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.21229868" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
+      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.21229868" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
+      <window_info id="Problems" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
       <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="0" side_tool="true" content_ui="tabs" />
+      <window_info id="Ant Build" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+      <window_info id="UI Designer" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
+      <window_info id="Theme Preview" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
       <window_info id="Favorites" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="0" side_tool="true" content_ui="tabs" />
-      <window_info id="Problems" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
+      <window_info id="Cvs" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
+      <window_info id="Message" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
+      <window_info id="Commander" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
+      <window_info id="Hierarchy" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="2" side_tool="false" content_ui="combo" />
+      <window_info id="Inspection" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="5" side_tool="false" content_ui="tabs" />
+      <window_info id="Find" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
     </layout>
   </component>
   <component name="Vcs.Log.UiProperties">
@@ -440,74 +581,45 @@
   <component name="editorHistoryManager">
     <entry file="file://$PROJECT_DIR$/AIO&amp;CannonKiller/com/script/AIOCannonKiller.class">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="14790">
-          <caret line="909" column="21" selection-start-line="909" selection-start-column="21" selection-end-line="909" selection-end-column="21" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/AIO&amp;CannonKiller/com/script/data/Food.class">
-      <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="0">
-          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/AIO&amp;CannonKiller/com/script/Preferences.class">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="0">
-          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/AIO&amp;CannonKiller/com/script/Static.class">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="0">
-          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/AIO&amp;CannonKiller/com/script/AIOCannonKiller.class">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="5134">
-          <caret line="335" column="60" selection-start-line="335" selection-start-column="57" selection-end-line="335" selection-end-column="60" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/AIO&amp;CannonKiller/com/script/Preferences.class">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="0">
-          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/AIO&amp;CannonKiller/com/script/Static.class">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="0">
-          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/AIO&amp;CannonKiller/com/script/data/Food.class">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="17">
-          <caret line="1" column="42" selection-start-line="1" selection-start-column="39" selection-end-line="1" selection-end-column="42" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/AIO&amp;CannonKiller/com/script/data/Overheads.class">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="0">
-          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
           <folding>
-            <element signature="e#0#276#0" expanded="true" />
+            <marker date="1493973188000" expanded="true" signature="0:104" ph="/.../" />
+            <marker date="1493973188000" expanded="false" signature="134:1119" ph="..." />
+            <marker date="1493973188000" expanded="true" signature="1121:1359" ph="@{...}" />
+            <marker date="1493973188000" expanded="true" signature="2128:2222" ph="{...}" />
+            <marker date="1493973188000" expanded="false" signature="2263:2274" ph=" { " />
+            <marker date="1493973188000" expanded="false" signature="2298:2304" ph=" }" />
+            <marker date="1493973188000" expanded="true" signature="2363:2405" ph="{...}" />
+            <marker date="1493973188000" expanded="true" signature="2433:2860" ph="{...}" />
+            <marker date="1493973188000" expanded="true" signature="2886:3286" ph="{...}" />
+            <marker date="1493973188000" expanded="true" signature="3353:5930" ph="{...}" />
+            <marker date="1493973188000" expanded="true" signature="5984:23569" ph="{...}" />
+            <marker date="1493973188000" expanded="false" signature="17205:17290" ph="evaluate() → {" />
+            <marker date="1493973188000" expanded="false" signature="17470:17513" ph="}" />
+            <marker date="1493973188000" expanded="true" signature="23611:24763" ph="{...}" />
+            <marker date="1493973188000" expanded="false" signature="24794:24805" ph=" { " />
+            <marker date="1493973188000" expanded="false" signature="24824:24830" ph=" }" />
+            <marker date="1493973188000" expanded="true" signature="24895:26953" ph="{...}" />
+            <marker date="1493973188000" expanded="true" signature="27014:28396" ph="{...}" />
+            <marker date="1493973188000" expanded="true" signature="28473:28791" ph="{...}" />
+            <marker date="1493973188000" expanded="true" signature="28827:29232" ph="{...}" />
+            <marker date="1493973188000" expanded="true" signature="29272:30847" ph="{...}" />
+            <marker date="1493973188000" expanded="true" signature="30919:31082" ph="{...}" />
+            <marker date="1493973188000" expanded="true" signature="31119:31357" ph="{...}" />
+            <marker date="1493973188000" expanded="true" signature="31420:32212" ph="{...}" />
+            <marker date="1493973188000" expanded="true" signature="32274:33338" ph="{...}" />
+            <marker date="1493973188000" expanded="true" signature="33378:33729" ph="{...}" />
+            <marker date="1493973188000" expanded="true" signature="33765:34386" ph="{...}" />
+            <marker date="1493973188000" expanded="false" signature="34165:34226" ph="evaluate() → {" />
+            <marker date="1493973188000" expanded="false" signature="34318:34337" ph="}" />
+            <marker date="1493973188000" expanded="true" signature="34441:38519" ph="{...}" />
+            <marker date="1493973188000" expanded="true" signature="38582:38767" ph="{...}" />
+            <marker date="1493973188000" expanded="true" signature="38831:39072" ph="{...}" />
+            <marker date="1493973188000" expanded="true" signature="39126:39817" ph="{...}" />
+            <marker date="1493973188000" expanded="true" signature="39868:40107" ph="{...}" />
+            <marker date="1493973188000" expanded="true" signature="40146:40439" ph="{...}" />
+            <marker date="1493973188000" expanded="true" signature="40422:40433" ph="{}" />
           </folding>
         </state>
       </provider>
@@ -515,29 +627,70 @@
     <entry file="file://$PROJECT_DIR$/AIO&amp;CannonKiller/com/script/data/SafetyTeleport.class">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="0">
-          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
           <folding>
-            <element signature="e#0#492#0" expanded="true" />
+            <marker date="1493957150000" expanded="false" signature="0:104" ph="/.../" />
+            <marker date="1493957150000" expanded="false" signature="403:414" ph=" { " />
+            <marker date="1493957150000" expanded="false" signature="427:433" ph=" }" />
+            <marker date="1493957150000" expanded="false" signature="457:468" ph=" { " />
+            <marker date="1493957150000" expanded="false" signature="483:489" ph=" }" />
           </folding>
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/AIO&amp;CannonKiller/com/script/gui/Gui.class">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="0">
-          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+        <state relative-caret-position="646">
+          <caret line="64" column="99" lean-forward="false" selection-start-line="64" selection-start-column="99" selection-end-line="64" selection-end-column="99" />
           <folding>
-            <element signature="e#0#13306#0" expanded="true" />
+            <marker date="1493957150000" expanded="false" signature="0:104" ph="/.../" />
+            <marker date="1493957150000" expanded="false" signature="138:900" ph="..." />
+            <marker date="1493957150000" expanded="true" signature="1993:2061" ph="{...}" />
+            <marker date="1493957150000" expanded="true" signature="2103:3220" ph="{...}" />
+            <marker date="1493957150000" expanded="true" signature="3263:3634" ph="{...}" />
+            <marker date="1493957150000" expanded="true" signature="3682:4229" ph="{...}" />
+            <marker date="1493957150000" expanded="true" signature="4265:12900" ph="{...}" />
+            <marker date="1493957150000" expanded="false" signature="8008:8087" ph="actionPerformed(e) → {" />
+            <marker date="1493957150000" expanded="false" signature="8368:8383" ph="}" />
+            <marker date="1493957150000" expanded="false" signature="8899:8978" ph="actionPerformed(e) → {" />
+            <marker date="1493957150000" expanded="false" signature="9250:9265" ph="}" />
+            <marker date="1493957150000" expanded="false" signature="10832:10911" ph="actionPerformed(e) → {" />
+            <marker date="1493957150000" expanded="false" signature="10970:10985" ph="}" />
+            <marker date="1493957150000" expanded="false" signature="11381:11460" ph="actionPerformed(e) → {" />
+            <marker date="1493957150000" expanded="false" signature="11524:11539" ph="}" />
+            <marker date="1493957150000" expanded="false" signature="11865:11961" ph="actionPerformed(e) → { " />
+            <marker date="1493957150000" expanded="false" signature="11981:12005" ph=" }" />
+            <marker date="1493957150000" expanded="true" signature="12946:12953" ph="{}" />
+            <marker date="1493957150000" expanded="true" signature="13002:13076" ph="{...}" />
+            <marker date="1493957150000" expanded="true" signature="13125:13132" ph="{}" />
+            <marker date="1493957150000" expanded="true" signature="13178:13189" ph=" { " />
+            <marker date="1493957150000" expanded="true" signature="13220:13226" ph=" }" />
+            <marker date="1493957150000" expanded="true" signature="13277:13284" ph="{}" />
+            <marker date="1493957150000" expanded="true" signature="13335:13342" ph="{}" />
+            <marker date="1493957150000" expanded="false" signature="13390:13401" ph=" { " />
+            <marker date="1493957150000" expanded="false" signature="13420:13426" ph=" }" />
+            <marker date="1493957150000" expanded="true" signature="13472:13479" ph="{}" />
           </folding>
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/AIO&amp;CannonKiller/com/script/util/Stopwatch.class">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-76">
-          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
           <folding>
-            <element signature="e#0#832#0" expanded="true" />
+            <marker date="1493957150000" expanded="false" signature="0:104" ph="/.../" />
+            <marker date="1493957150000" expanded="true" signature="255:341" ph="{...}" />
+            <marker date="1493957150000" expanded="true" signature="378:429" ph="{...}" />
+            <marker date="1493957150000" expanded="true" signature="460:536" ph="{...}" />
+            <marker date="1493957150000" expanded="false" signature="563:574" ph=" { " />
+            <marker date="1493957150000" expanded="false" signature="620:626" ph=" }" />
+            <marker date="1493957150000" expanded="false" signature="665:676" ph=" { " />
+            <marker date="1493957150000" expanded="false" signature="706:712" ph=" }" />
+            <marker date="1493957150000" expanded="false" signature="739:750" ph=" { " />
+            <marker date="1493957150000" expanded="false" signature="767:773" ph=" }" />
+            <marker date="1493957150000" expanded="false" signature="797:808" ph=" { " />
+            <marker date="1493957150000" expanded="false" signature="823:829" ph=" }" />
           </folding>
         </state>
       </provider>
@@ -545,26 +698,936 @@
     <entry file="file://$PROJECT_DIR$/AIO&amp;CannonKiller/com/script/util/XPTracker.class">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="0">
-          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
           <folding>
-            <element signature="e#0#4873#0" expanded="true" />
+            <marker date="1493957150000" expanded="false" signature="0:104" ph="/.../" />
+            <marker date="1493957150000" expanded="false" signature="139:236" ph="..." />
+            <marker date="1493957150000" expanded="true" signature="571:851" ph="{...}" />
+            <marker date="1493957150000" expanded="true" signature="877:1151" ph="{...}" />
+            <marker date="1493957150000" expanded="true" signature="1179:1518" ph="{...}" />
+            <marker date="1493957150000" expanded="true" signature="1572:1821" ph="{...}" />
+            <marker date="1493957150000" expanded="true" signature="1893:2128" ph="{...}" />
+            <marker date="1493957150000" expanded="true" signature="2200:2290" ph="{...}" />
+            <marker date="1493957150000" expanded="true" signature="2333:2450" ph="{...}" />
+            <marker date="1493957150000" expanded="true" signature="2498:2612" ph="{...}" />
+            <marker date="1493957150000" expanded="true" signature="2662:3049" ph="{...}" />
+            <marker date="1493957150000" expanded="true" signature="3117:3414" ph="{...}" />
+            <marker date="1493957150000" expanded="true" signature="3462:3585" ph="{...}" />
+            <marker date="1493957150000" expanded="true" signature="3624:3803" ph="{...}" />
+            <marker date="1493957150000" expanded="false" signature="3835:3846" ph=" { " />
+            <marker date="1493957150000" expanded="false" signature="3865:3871" ph=" }" />
+            <marker date="1493957150000" expanded="true" signature="3923:4028" ph="{...}" />
+            <marker date="1493957150000" expanded="false" signature="4060:4071" ph=" { " />
+            <marker date="1493957150000" expanded="false" signature="4093:4099" ph=" }" />
+            <marker date="1493957150000" expanded="false" signature="4129:4140" ph=" { " />
+            <marker date="1493957150000" expanded="false" signature="4160:4166" ph=" }" />
+            <marker date="1493957150000" expanded="true" signature="4216:4314" ph="{...}" />
+            <marker date="1493957150000" expanded="false" signature="4362:4373" ph=" { " />
+            <marker date="1493957150000" expanded="false" signature="4425:4431" ph=" }" />
+            <marker date="1493957150000" expanded="false" signature="4474:4485" ph=" { " />
+            <marker date="1493957150000" expanded="false" signature="4533:4539" ph=" }" />
+            <marker date="1493957150000" expanded="false" signature="4570:4581" ph=" { " />
+            <marker date="1493957150000" expanded="false" signature="4600:4606" ph=" }" />
+            <marker date="1493957150000" expanded="true" signature="4650:4742" ph="{...}" />
+            <marker date="1493957150000" expanded="true" signature="4788:4882" ph="{...}" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/AIO&amp;CannonKiller/com/script/data/Overheads.class">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding>
+            <marker date="1493957150000" expanded="false" signature="0:104" ph="/.../" />
+            <marker date="1493957150000" expanded="true" signature="266:273" ph="{}" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/AIO&amp;CannonKiller/com/script/data/Food.class">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="17">
+          <caret line="1" column="42" lean-forward="false" selection-start-line="1" selection-start-column="39" selection-end-line="1" selection-end-column="42" />
+          <folding>
+            <marker date="1493957150000" expanded="true" signature="0:104" ph="/.../" />
+            <marker date="1493957150000" expanded="false" signature="139:179" ph="..." />
+            <marker date="1493957150000" expanded="true" signature="657:866" ph="{...}" />
+            <marker date="1493957150000" expanded="true" signature="895:1022" ph="{...}" />
+            <marker date="1493957150000" expanded="false" signature="1064:1075" ph=" { " />
+            <marker date="1493957150000" expanded="false" signature="1100:1106" ph=" }" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/AIO&amp;CannonKiller/com/script/Preferences.class">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="663">
+          <caret line="57" column="34" lean-forward="false" selection-start-line="57" selection-start-column="34" selection-end-line="57" selection-end-column="34" />
+          <folding>
+            <marker date="1493957150000" expanded="false" signature="0:104" ph="/.../" />
+            <marker date="1493957150000" expanded="false" signature="134:319" ph="..." />
+            <marker date="1493957150000" expanded="true" signature="945:1075" ph="{...}" />
+            <marker date="1493957150000" expanded="false" signature="1113:1124" ph=" { " />
+            <marker date="1493957150000" expanded="false" signature="1144:1150" ph=" }" />
+            <marker date="1493957150000" expanded="false" signature="1200:1211" ph=" { " />
+            <marker date="1493957150000" expanded="false" signature="1234:1240" ph=" }" />
+            <marker date="1493957150000" expanded="false" signature="1275:1286" ph=" { " />
+            <marker date="1493957150000" expanded="false" signature="1303:1309" ph=" }" />
+            <marker date="1493957150000" expanded="false" signature="1353:1364" ph=" { " />
+            <marker date="1493957150000" expanded="false" signature="1381:1387" ph=" }" />
+            <marker date="1493957150000" expanded="false" signature="1414:1425" ph=" { " />
+            <marker date="1493957150000" expanded="false" signature="1442:1448" ph=" }" />
+            <marker date="1493957150000" expanded="true" signature="1484:1495" ph=" { " />
+            <marker date="1493957150000" expanded="true" signature="1512:1518" ph=" }" />
+            <marker date="1493957150000" expanded="false" signature="1559:1570" ph=" { " />
+            <marker date="1493957150000" expanded="false" signature="1597:1603" ph=" }" />
+            <marker date="1493957150000" expanded="false" signature="1669:1680" ph=" { " />
+            <marker date="1493957150000" expanded="false" signature="1717:1723" ph=" }" />
+            <marker date="1493957150000" expanded="true" signature="1759:1770" ph=" { " />
+            <marker date="1493957150000" expanded="true" signature="1798:1804" ph=" }" />
+            <marker date="1493957150000" expanded="false" signature="1863:1874" ph=" { " />
+            <marker date="1493957150000" expanded="false" signature="1913:1919" ph=" }" />
+            <marker date="1493957150000" expanded="false" signature="1956:1967" ph=" { " />
+            <marker date="1493957150000" expanded="false" signature="1989:1995" ph=" }" />
+            <marker date="1493957150000" expanded="false" signature="2046:2057" ph=" { " />
+            <marker date="1493957150000" expanded="false" signature="2084:2090" ph=" }" />
+            <marker date="1493957150000" expanded="false" signature="2127:2138" ph=" { " />
+            <marker date="1493957150000" expanded="false" signature="2167:2173" ph=" }" />
+            <marker date="1493957150000" expanded="false" signature="2234:2245" ph=" { " />
+            <marker date="1493957150000" expanded="false" signature="2286:2292" ph=" }" />
+            <marker date="1493957150000" expanded="true" signature="2331:2342" ph=" { " />
+            <marker date="1493957150000" expanded="true" signature="2372:2378" ph=" }" />
+            <marker date="1493957150000" expanded="false" signature="2442:2453" ph=" { " />
+            <marker date="1493957150000" expanded="false" signature="2496:2502" ph=" }" />
+            <marker date="1493957150000" expanded="true" signature="2541:2552" ph=" { " />
+            <marker date="1493957150000" expanded="true" signature="2581:2587" ph=" }" />
+            <marker date="1493957150000" expanded="false" signature="2650:2661" ph=" { " />
+            <marker date="1493957150000" expanded="false" signature="2702:2708" ph=" }" />
+            <marker date="1493957150000" expanded="false" signature="2746:2757" ph=" { " />
+            <marker date="1493957150000" expanded="false" signature="2783:2789" ph=" }" />
+            <marker date="1493957150000" expanded="false" signature="2846:2857" ph=" { " />
+            <marker date="1493957150000" expanded="false" signature="2892:2898" ph=" }" />
+            <marker date="1493957150000" expanded="false" signature="2936:2947" ph=" { " />
+            <marker date="1493957150000" expanded="false" signature="2973:2979" ph=" }" />
+            <marker date="1493957150000" expanded="false" signature="3036:3047" ph=" { " />
+            <marker date="1493957150000" expanded="false" signature="3082:3088" ph=" }" />
+            <marker date="1493957150000" expanded="false" signature="3132:3143" ph=" { " />
+            <marker date="1493957150000" expanded="false" signature="3175:3181" ph=" }" />
+            <marker date="1493957150000" expanded="false" signature="3250:3261" ph=" { " />
+            <marker date="1493957150000" expanded="false" signature="3308:3314" ph=" }" />
+            <marker date="1493957150000" expanded="false" signature="3357:3368" ph=" { " />
+            <marker date="1493957150000" expanded="false" signature="3397:3403" ph=" }" />
+            <marker date="1493957150000" expanded="false" signature="3467:3478" ph=" { " />
+            <marker date="1493957150000" expanded="false" signature="3519:3525" ph=" }" />
+            <marker date="1493957150000" expanded="false" signature="3563:3574" ph=" { " />
+            <marker date="1493957150000" expanded="false" signature="3600:3606" ph=" }" />
+            <marker date="1493957150000" expanded="false" signature="3662:3673" ph=" { " />
+            <marker date="1493957150000" expanded="false" signature="3708:3714" ph=" }" />
+            <marker date="1493957150000" expanded="false" signature="3753:3764" ph=" { " />
+            <marker date="1493957150000" expanded="false" signature="3791:3797" ph=" }" />
+            <marker date="1493957150000" expanded="false" signature="3855:3866" ph=" { " />
+            <marker date="1493957150000" expanded="false" signature="3903:3909" ph=" }" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/AIO&amp;CannonKiller/com/script/Static.class">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding>
+            <marker date="1493957150000" expanded="false" signature="0:104" ph="/.../" />
+            <marker date="1493957150000" expanded="true" signature="751:758" ph="{}" />
           </folding>
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/AIO&amp;CannonKiller/com/script/AIOCannonKiller.class">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-4947">
-          <caret line="1" column="42" selection-start-line="1" selection-start-column="39" selection-end-line="1" selection-end-column="42" />
-          <folding />
+        <state relative-caret-position="17">
+          <caret line="1" column="42" lean-forward="false" selection-start-line="1" selection-start-column="39" selection-end-line="1" selection-end-column="42" />
+          <folding>
+            <marker date="1493973188000" expanded="true" signature="0:104" ph="/.../" />
+            <marker date="1493973188000" expanded="false" signature="134:1119" ph="..." />
+            <marker date="1493973188000" expanded="true" signature="1121:1359" ph="@{...}" />
+            <marker date="1493973188000" expanded="true" signature="2128:2222" ph="{...}" />
+            <marker date="1493973188000" expanded="false" signature="2263:2274" ph=" { " />
+            <marker date="1493973188000" expanded="false" signature="2298:2304" ph=" }" />
+            <marker date="1493973188000" expanded="true" signature="2363:2405" ph="{...}" />
+            <marker date="1493973188000" expanded="true" signature="2433:2860" ph="{...}" />
+            <marker date="1493973188000" expanded="true" signature="2886:3286" ph="{...}" />
+            <marker date="1493973188000" expanded="true" signature="3353:5930" ph="{...}" />
+            <marker date="1493973188000" expanded="true" signature="5984:23569" ph="{...}" />
+            <marker date="1493973188000" expanded="false" signature="17205:17290" ph="evaluate() → {" />
+            <marker date="1493973188000" expanded="false" signature="17470:17513" ph="}" />
+            <marker date="1493973188000" expanded="true" signature="23611:24763" ph="{...}" />
+            <marker date="1493973188000" expanded="false" signature="24794:24805" ph=" { " />
+            <marker date="1493973188000" expanded="false" signature="24824:24830" ph=" }" />
+            <marker date="1493973188000" expanded="true" signature="24895:26953" ph="{...}" />
+            <marker date="1493973188000" expanded="true" signature="27014:28396" ph="{...}" />
+            <marker date="1493973188000" expanded="true" signature="28473:28791" ph="{...}" />
+            <marker date="1493973188000" expanded="true" signature="28827:29232" ph="{...}" />
+            <marker date="1493973188000" expanded="true" signature="29272:30847" ph="{...}" />
+            <marker date="1493973188000" expanded="true" signature="30919:31082" ph="{...}" />
+            <marker date="1493973188000" expanded="true" signature="31119:31357" ph="{...}" />
+            <marker date="1493973188000" expanded="true" signature="31420:32212" ph="{...}" />
+            <marker date="1493973188000" expanded="true" signature="32274:33338" ph="{...}" />
+            <marker date="1493973188000" expanded="true" signature="33378:33729" ph="{...}" />
+            <marker date="1493973188000" expanded="true" signature="33765:34386" ph="{...}" />
+            <marker date="1493973188000" expanded="false" signature="34165:34226" ph="evaluate() → {" />
+            <marker date="1493973188000" expanded="false" signature="34318:34337" ph="}" />
+            <marker date="1493973188000" expanded="true" signature="34441:38519" ph="{...}" />
+            <marker date="1493973188000" expanded="true" signature="38582:38767" ph="{...}" />
+            <marker date="1493973188000" expanded="true" signature="38831:39072" ph="{...}" />
+            <marker date="1493973188000" expanded="true" signature="39126:39817" ph="{...}" />
+            <marker date="1493973188000" expanded="true" signature="39868:40107" ph="{...}" />
+            <marker date="1493973188000" expanded="true" signature="40146:40439" ph="{...}" />
+            <marker date="1493973188000" expanded="true" signature="40422:40433" ph="{}" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/AIO&amp;CannonKiller/com/script/data/SafetyTeleport.class">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding>
+            <marker date="1493957150000" expanded="false" signature="0:104" ph="/.../" />
+            <marker date="1493957150000" expanded="false" signature="403:414" ph=" { " />
+            <marker date="1493957150000" expanded="false" signature="427:433" ph=" }" />
+            <marker date="1493957150000" expanded="false" signature="457:468" ph=" { " />
+            <marker date="1493957150000" expanded="false" signature="483:489" ph=" }" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/AIO&amp;CannonKiller/com/script/gui/Gui.class">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding>
+            <marker date="1493957150000" expanded="false" signature="0:104" ph="/.../" />
+            <marker date="1493957150000" expanded="false" signature="138:900" ph="..." />
+            <marker date="1493957150000" expanded="true" signature="1993:2061" ph="{...}" />
+            <marker date="1493957150000" expanded="true" signature="2103:3220" ph="{...}" />
+            <marker date="1493957150000" expanded="true" signature="3263:3634" ph="{...}" />
+            <marker date="1493957150000" expanded="true" signature="3682:4229" ph="{...}" />
+            <marker date="1493957150000" expanded="true" signature="4265:12900" ph="{...}" />
+            <marker date="1493957150000" expanded="false" signature="8008:8087" ph="actionPerformed(e) → {" />
+            <marker date="1493957150000" expanded="false" signature="8368:8383" ph="}" />
+            <marker date="1493957150000" expanded="false" signature="8899:8978" ph="actionPerformed(e) → {" />
+            <marker date="1493957150000" expanded="false" signature="9250:9265" ph="}" />
+            <marker date="1493957150000" expanded="false" signature="10832:10911" ph="actionPerformed(e) → {" />
+            <marker date="1493957150000" expanded="false" signature="10970:10985" ph="}" />
+            <marker date="1493957150000" expanded="false" signature="11381:11460" ph="actionPerformed(e) → {" />
+            <marker date="1493957150000" expanded="false" signature="11524:11539" ph="}" />
+            <marker date="1493957150000" expanded="false" signature="11865:11961" ph="actionPerformed(e) → { " />
+            <marker date="1493957150000" expanded="false" signature="11981:12005" ph=" }" />
+            <marker date="1493957150000" expanded="true" signature="12946:12953" ph="{}" />
+            <marker date="1493957150000" expanded="true" signature="13002:13076" ph="{...}" />
+            <marker date="1493957150000" expanded="true" signature="13125:13132" ph="{}" />
+            <marker date="1493957150000" expanded="true" signature="13178:13189" ph=" { " />
+            <marker date="1493957150000" expanded="true" signature="13220:13226" ph=" }" />
+            <marker date="1493957150000" expanded="true" signature="13277:13284" ph="{}" />
+            <marker date="1493957150000" expanded="true" signature="13335:13342" ph="{}" />
+            <marker date="1493957150000" expanded="false" signature="13390:13401" ph=" { " />
+            <marker date="1493957150000" expanded="false" signature="13420:13426" ph=" }" />
+            <marker date="1493957150000" expanded="true" signature="13472:13479" ph="{}" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/AIO&amp;CannonKiller/com/script/util/Stopwatch.class">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding>
+            <marker date="1493957150000" expanded="false" signature="0:104" ph="/.../" />
+            <marker date="1493957150000" expanded="true" signature="255:341" ph="{...}" />
+            <marker date="1493957150000" expanded="true" signature="378:429" ph="{...}" />
+            <marker date="1493957150000" expanded="true" signature="460:536" ph="{...}" />
+            <marker date="1493957150000" expanded="false" signature="563:574" ph=" { " />
+            <marker date="1493957150000" expanded="false" signature="620:626" ph=" }" />
+            <marker date="1493957150000" expanded="false" signature="665:676" ph=" { " />
+            <marker date="1493957150000" expanded="false" signature="706:712" ph=" }" />
+            <marker date="1493957150000" expanded="false" signature="739:750" ph=" { " />
+            <marker date="1493957150000" expanded="false" signature="767:773" ph=" }" />
+            <marker date="1493957150000" expanded="false" signature="797:808" ph=" { " />
+            <marker date="1493957150000" expanded="false" signature="823:829" ph=" }" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/AIO&amp;CannonKiller/com/script/util/XPTracker.class">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding>
+            <marker date="1493957150000" expanded="false" signature="0:104" ph="/.../" />
+            <marker date="1493957150000" expanded="false" signature="139:236" ph="..." />
+            <marker date="1493957150000" expanded="true" signature="571:851" ph="{...}" />
+            <marker date="1493957150000" expanded="true" signature="877:1151" ph="{...}" />
+            <marker date="1493957150000" expanded="true" signature="1179:1518" ph="{...}" />
+            <marker date="1493957150000" expanded="true" signature="1572:1821" ph="{...}" />
+            <marker date="1493957150000" expanded="true" signature="1893:2128" ph="{...}" />
+            <marker date="1493957150000" expanded="true" signature="2200:2290" ph="{...}" />
+            <marker date="1493957150000" expanded="true" signature="2333:2450" ph="{...}" />
+            <marker date="1493957150000" expanded="true" signature="2498:2612" ph="{...}" />
+            <marker date="1493957150000" expanded="true" signature="2662:3049" ph="{...}" />
+            <marker date="1493957150000" expanded="true" signature="3117:3414" ph="{...}" />
+            <marker date="1493957150000" expanded="true" signature="3462:3585" ph="{...}" />
+            <marker date="1493957150000" expanded="true" signature="3624:3803" ph="{...}" />
+            <marker date="1493957150000" expanded="false" signature="3835:3846" ph=" { " />
+            <marker date="1493957150000" expanded="false" signature="3865:3871" ph=" }" />
+            <marker date="1493957150000" expanded="true" signature="3923:4028" ph="{...}" />
+            <marker date="1493957150000" expanded="false" signature="4060:4071" ph=" { " />
+            <marker date="1493957150000" expanded="false" signature="4093:4099" ph=" }" />
+            <marker date="1493957150000" expanded="false" signature="4129:4140" ph=" { " />
+            <marker date="1493957150000" expanded="false" signature="4160:4166" ph=" }" />
+            <marker date="1493957150000" expanded="true" signature="4216:4314" ph="{...}" />
+            <marker date="1493957150000" expanded="false" signature="4362:4373" ph=" { " />
+            <marker date="1493957150000" expanded="false" signature="4425:4431" ph=" }" />
+            <marker date="1493957150000" expanded="false" signature="4474:4485" ph=" { " />
+            <marker date="1493957150000" expanded="false" signature="4533:4539" ph=" }" />
+            <marker date="1493957150000" expanded="false" signature="4570:4581" ph=" { " />
+            <marker date="1493957150000" expanded="false" signature="4600:4606" ph=" }" />
+            <marker date="1493957150000" expanded="true" signature="4650:4742" ph="{...}" />
+            <marker date="1493957150000" expanded="true" signature="4788:4882" ph="{...}" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/AIO&amp;CannonKiller/com/script/data/Overheads.class">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding>
+            <marker date="1493957150000" expanded="false" signature="0:104" ph="/.../" />
+            <marker date="1493957150000" expanded="true" signature="266:273" ph="{}" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/AIO&amp;CannonKiller/com/script/data/Food.class">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="17">
+          <caret line="1" column="42" lean-forward="false" selection-start-line="1" selection-start-column="39" selection-end-line="1" selection-end-column="42" />
+          <folding>
+            <marker date="1493957150000" expanded="true" signature="0:104" ph="/.../" />
+            <marker date="1493957150000" expanded="false" signature="139:179" ph="..." />
+            <marker date="1493957150000" expanded="true" signature="657:866" ph="{...}" />
+            <marker date="1493957150000" expanded="true" signature="895:1022" ph="{...}" />
+            <marker date="1493957150000" expanded="false" signature="1064:1075" ph=" { " />
+            <marker date="1493957150000" expanded="false" signature="1100:1106" ph=" }" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/AIO&amp;CannonKiller/com/script/Static.class">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding>
+            <marker date="1493957150000" expanded="false" signature="0:104" ph="/.../" />
+            <marker date="1493957150000" expanded="true" signature="751:758" ph="{}" />
+          </folding>
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/AIO&amp;CannonKiller/com/script/Preferences.class">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="170">
-          <caret line="94" column="8" selection-start-line="94" selection-start-column="8" selection-end-line="94" selection-end-column="8" />
-          <folding />
+        <state relative-caret-position="969">
+          <caret line="94" column="8" lean-forward="false" selection-start-line="94" selection-start-column="8" selection-end-line="94" selection-end-column="8" />
+          <folding>
+            <marker date="1493957150000" expanded="false" signature="0:104" ph="/.../" />
+            <marker date="1493957150000" expanded="false" signature="134:319" ph="..." />
+            <marker date="1493957150000" expanded="true" signature="945:1075" ph="{...}" />
+            <marker date="1493957150000" expanded="false" signature="1113:1124" ph=" { " />
+            <marker date="1493957150000" expanded="false" signature="1144:1150" ph=" }" />
+            <marker date="1493957150000" expanded="false" signature="1200:1211" ph=" { " />
+            <marker date="1493957150000" expanded="false" signature="1234:1240" ph=" }" />
+            <marker date="1493957150000" expanded="false" signature="1275:1286" ph=" { " />
+            <marker date="1493957150000" expanded="false" signature="1303:1309" ph=" }" />
+            <marker date="1493957150000" expanded="false" signature="1353:1364" ph=" { " />
+            <marker date="1493957150000" expanded="false" signature="1381:1387" ph=" }" />
+            <marker date="1493957150000" expanded="false" signature="1414:1425" ph=" { " />
+            <marker date="1493957150000" expanded="false" signature="1442:1448" ph=" }" />
+            <marker date="1493957150000" expanded="true" signature="1484:1495" ph=" { " />
+            <marker date="1493957150000" expanded="true" signature="1512:1518" ph=" }" />
+            <marker date="1493957150000" expanded="false" signature="1559:1570" ph=" { " />
+            <marker date="1493957150000" expanded="false" signature="1597:1603" ph=" }" />
+            <marker date="1493957150000" expanded="false" signature="1669:1680" ph=" { " />
+            <marker date="1493957150000" expanded="false" signature="1717:1723" ph=" }" />
+            <marker date="1493957150000" expanded="true" signature="1759:1770" ph=" { " />
+            <marker date="1493957150000" expanded="true" signature="1798:1804" ph=" }" />
+            <marker date="1493957150000" expanded="false" signature="1863:1874" ph=" { " />
+            <marker date="1493957150000" expanded="false" signature="1913:1919" ph=" }" />
+            <marker date="1493957150000" expanded="false" signature="1956:1967" ph=" { " />
+            <marker date="1493957150000" expanded="false" signature="1989:1995" ph=" }" />
+            <marker date="1493957150000" expanded="false" signature="2046:2057" ph=" { " />
+            <marker date="1493957150000" expanded="false" signature="2084:2090" ph=" }" />
+            <marker date="1493957150000" expanded="false" signature="2127:2138" ph=" { " />
+            <marker date="1493957150000" expanded="false" signature="2167:2173" ph=" }" />
+            <marker date="1493957150000" expanded="false" signature="2234:2245" ph=" { " />
+            <marker date="1493957150000" expanded="false" signature="2286:2292" ph=" }" />
+            <marker date="1493957150000" expanded="true" signature="2331:2342" ph=" { " />
+            <marker date="1493957150000" expanded="true" signature="2372:2378" ph=" }" />
+            <marker date="1493957150000" expanded="false" signature="2442:2453" ph=" { " />
+            <marker date="1493957150000" expanded="false" signature="2496:2502" ph=" }" />
+            <marker date="1493957150000" expanded="true" signature="2541:2552" ph=" { " />
+            <marker date="1493957150000" expanded="true" signature="2581:2587" ph=" }" />
+            <marker date="1493957150000" expanded="false" signature="2650:2661" ph=" { " />
+            <marker date="1493957150000" expanded="false" signature="2702:2708" ph=" }" />
+            <marker date="1493957150000" expanded="false" signature="2746:2757" ph=" { " />
+            <marker date="1493957150000" expanded="false" signature="2783:2789" ph=" }" />
+            <marker date="1493957150000" expanded="false" signature="2846:2857" ph=" { " />
+            <marker date="1493957150000" expanded="false" signature="2892:2898" ph=" }" />
+            <marker date="1493957150000" expanded="false" signature="2936:2947" ph=" { " />
+            <marker date="1493957150000" expanded="false" signature="2973:2979" ph=" }" />
+            <marker date="1493957150000" expanded="false" signature="3036:3047" ph=" { " />
+            <marker date="1493957150000" expanded="false" signature="3082:3088" ph=" }" />
+            <marker date="1493957150000" expanded="false" signature="3132:3143" ph=" { " />
+            <marker date="1493957150000" expanded="false" signature="3175:3181" ph=" }" />
+            <marker date="1493957150000" expanded="false" signature="3250:3261" ph=" { " />
+            <marker date="1493957150000" expanded="false" signature="3308:3314" ph=" }" />
+            <marker date="1493957150000" expanded="false" signature="3357:3368" ph=" { " />
+            <marker date="1493957150000" expanded="false" signature="3397:3403" ph=" }" />
+            <marker date="1493957150000" expanded="false" signature="3467:3478" ph=" { " />
+            <marker date="1493957150000" expanded="false" signature="3519:3525" ph=" }" />
+            <marker date="1493957150000" expanded="false" signature="3563:3574" ph=" { " />
+            <marker date="1493957150000" expanded="false" signature="3600:3606" ph=" }" />
+            <marker date="1493957150000" expanded="false" signature="3662:3673" ph=" { " />
+            <marker date="1493957150000" expanded="false" signature="3708:3714" ph=" }" />
+            <marker date="1493957150000" expanded="false" signature="3753:3764" ph=" { " />
+            <marker date="1493957150000" expanded="false" signature="3791:3797" ph=" }" />
+            <marker date="1493957150000" expanded="false" signature="3855:3866" ph=" { " />
+            <marker date="1493957150000" expanded="false" signature="3903:3909" ph=" }" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/AIO&amp;CannonKiller/com/script/AIOCannonKiller.class">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="14790">
+          <caret line="909" column="21" lean-forward="false" selection-start-line="909" selection-start-column="21" selection-end-line="909" selection-end-column="21" />
+          <folding>
+            <marker date="1493973188000" expanded="true" signature="0:104" ph="/.../" />
+            <marker date="1493973188000" expanded="false" signature="134:1119" ph="..." />
+            <marker date="1493973188000" expanded="true" signature="1121:1359" ph="@{...}" />
+            <marker date="1493973188000" expanded="true" signature="2128:2222" ph="{...}" />
+            <marker date="1493973188000" expanded="false" signature="2263:2274" ph=" { " />
+            <marker date="1493973188000" expanded="false" signature="2298:2304" ph=" }" />
+            <marker date="1493973188000" expanded="true" signature="2363:2405" ph="{...}" />
+            <marker date="1493973188000" expanded="true" signature="2433:2860" ph="{...}" />
+            <marker date="1493973188000" expanded="true" signature="2886:3286" ph="{...}" />
+            <marker date="1493973188000" expanded="true" signature="3353:5930" ph="{...}" />
+            <marker date="1493973188000" expanded="true" signature="5984:23569" ph="{...}" />
+            <marker date="1493973188000" expanded="false" signature="17205:17290" ph="evaluate() → {" />
+            <marker date="1493973188000" expanded="false" signature="17470:17513" ph="}" />
+            <marker date="1493973188000" expanded="true" signature="23611:24763" ph="{...}" />
+            <marker date="1493973188000" expanded="false" signature="24794:24805" ph=" { " />
+            <marker date="1493973188000" expanded="false" signature="24824:24830" ph=" }" />
+            <marker date="1493973188000" expanded="true" signature="24895:26953" ph="{...}" />
+            <marker date="1493973188000" expanded="true" signature="27014:28396" ph="{...}" />
+            <marker date="1493973188000" expanded="true" signature="28473:28791" ph="{...}" />
+            <marker date="1493973188000" expanded="true" signature="28827:29232" ph="{...}" />
+            <marker date="1493973188000" expanded="true" signature="29272:30847" ph="{...}" />
+            <marker date="1493973188000" expanded="true" signature="30919:31082" ph="{...}" />
+            <marker date="1493973188000" expanded="true" signature="31119:31357" ph="{...}" />
+            <marker date="1493973188000" expanded="true" signature="31420:32212" ph="{...}" />
+            <marker date="1493973188000" expanded="true" signature="32274:33338" ph="{...}" />
+            <marker date="1493973188000" expanded="true" signature="33378:33729" ph="{...}" />
+            <marker date="1493973188000" expanded="true" signature="33765:34386" ph="{...}" />
+            <marker date="1493973188000" expanded="false" signature="34165:34226" ph="evaluate() → {" />
+            <marker date="1493973188000" expanded="false" signature="34318:34337" ph="}" />
+            <marker date="1493973188000" expanded="true" signature="34441:38519" ph="{...}" />
+            <marker date="1493973188000" expanded="true" signature="38582:38767" ph="{...}" />
+            <marker date="1493973188000" expanded="true" signature="38831:39072" ph="{...}" />
+            <marker date="1493973188000" expanded="true" signature="39126:39817" ph="{...}" />
+            <marker date="1493973188000" expanded="true" signature="39868:40107" ph="{...}" />
+            <marker date="1493973188000" expanded="true" signature="40146:40439" ph="{...}" />
+            <marker date="1493973188000" expanded="true" signature="40422:40433" ph="{}" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/AIO&amp;CannonKiller/com/script/data/Food.class">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding>
+            <marker date="1493957150000" expanded="true" signature="0:104" ph="/.../" />
+            <marker date="1493957150000" expanded="false" signature="139:179" ph="..." />
+            <marker date="1493957150000" expanded="true" signature="657:866" ph="{...}" />
+            <marker date="1493957150000" expanded="true" signature="895:1022" ph="{...}" />
+            <marker date="1493957150000" expanded="false" signature="1064:1075" ph=" { " />
+            <marker date="1493957150000" expanded="false" signature="1100:1106" ph=" }" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/AIO&amp;CannonKiller/com/script/Preferences.class">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding>
+            <marker date="1493957150000" expanded="false" signature="0:104" ph="/.../" />
+            <marker date="1493957150000" expanded="false" signature="134:319" ph="..." />
+            <marker date="1493957150000" expanded="true" signature="945:1075" ph="{...}" />
+            <marker date="1493957150000" expanded="false" signature="1113:1124" ph=" { " />
+            <marker date="1493957150000" expanded="false" signature="1144:1150" ph=" }" />
+            <marker date="1493957150000" expanded="false" signature="1200:1211" ph=" { " />
+            <marker date="1493957150000" expanded="false" signature="1234:1240" ph=" }" />
+            <marker date="1493957150000" expanded="false" signature="1275:1286" ph=" { " />
+            <marker date="1493957150000" expanded="false" signature="1303:1309" ph=" }" />
+            <marker date="1493957150000" expanded="false" signature="1353:1364" ph=" { " />
+            <marker date="1493957150000" expanded="false" signature="1381:1387" ph=" }" />
+            <marker date="1493957150000" expanded="false" signature="1414:1425" ph=" { " />
+            <marker date="1493957150000" expanded="false" signature="1442:1448" ph=" }" />
+            <marker date="1493957150000" expanded="true" signature="1484:1495" ph=" { " />
+            <marker date="1493957150000" expanded="true" signature="1512:1518" ph=" }" />
+            <marker date="1493957150000" expanded="false" signature="1559:1570" ph=" { " />
+            <marker date="1493957150000" expanded="false" signature="1597:1603" ph=" }" />
+            <marker date="1493957150000" expanded="false" signature="1669:1680" ph=" { " />
+            <marker date="1493957150000" expanded="false" signature="1717:1723" ph=" }" />
+            <marker date="1493957150000" expanded="true" signature="1759:1770" ph=" { " />
+            <marker date="1493957150000" expanded="true" signature="1798:1804" ph=" }" />
+            <marker date="1493957150000" expanded="false" signature="1863:1874" ph=" { " />
+            <marker date="1493957150000" expanded="false" signature="1913:1919" ph=" }" />
+            <marker date="1493957150000" expanded="false" signature="1956:1967" ph=" { " />
+            <marker date="1493957150000" expanded="false" signature="1989:1995" ph=" }" />
+            <marker date="1493957150000" expanded="false" signature="2046:2057" ph=" { " />
+            <marker date="1493957150000" expanded="false" signature="2084:2090" ph=" }" />
+            <marker date="1493957150000" expanded="false" signature="2127:2138" ph=" { " />
+            <marker date="1493957150000" expanded="false" signature="2167:2173" ph=" }" />
+            <marker date="1493957150000" expanded="false" signature="2234:2245" ph=" { " />
+            <marker date="1493957150000" expanded="false" signature="2286:2292" ph=" }" />
+            <marker date="1493957150000" expanded="true" signature="2331:2342" ph=" { " />
+            <marker date="1493957150000" expanded="true" signature="2372:2378" ph=" }" />
+            <marker date="1493957150000" expanded="false" signature="2442:2453" ph=" { " />
+            <marker date="1493957150000" expanded="false" signature="2496:2502" ph=" }" />
+            <marker date="1493957150000" expanded="true" signature="2541:2552" ph=" { " />
+            <marker date="1493957150000" expanded="true" signature="2581:2587" ph=" }" />
+            <marker date="1493957150000" expanded="false" signature="2650:2661" ph=" { " />
+            <marker date="1493957150000" expanded="false" signature="2702:2708" ph=" }" />
+            <marker date="1493957150000" expanded="false" signature="2746:2757" ph=" { " />
+            <marker date="1493957150000" expanded="false" signature="2783:2789" ph=" }" />
+            <marker date="1493957150000" expanded="false" signature="2846:2857" ph=" { " />
+            <marker date="1493957150000" expanded="false" signature="2892:2898" ph=" }" />
+            <marker date="1493957150000" expanded="false" signature="2936:2947" ph=" { " />
+            <marker date="1493957150000" expanded="false" signature="2973:2979" ph=" }" />
+            <marker date="1493957150000" expanded="false" signature="3036:3047" ph=" { " />
+            <marker date="1493957150000" expanded="false" signature="3082:3088" ph=" }" />
+            <marker date="1493957150000" expanded="false" signature="3132:3143" ph=" { " />
+            <marker date="1493957150000" expanded="false" signature="3175:3181" ph=" }" />
+            <marker date="1493957150000" expanded="false" signature="3250:3261" ph=" { " />
+            <marker date="1493957150000" expanded="false" signature="3308:3314" ph=" }" />
+            <marker date="1493957150000" expanded="false" signature="3357:3368" ph=" { " />
+            <marker date="1493957150000" expanded="false" signature="3397:3403" ph=" }" />
+            <marker date="1493957150000" expanded="false" signature="3467:3478" ph=" { " />
+            <marker date="1493957150000" expanded="false" signature="3519:3525" ph=" }" />
+            <marker date="1493957150000" expanded="false" signature="3563:3574" ph=" { " />
+            <marker date="1493957150000" expanded="false" signature="3600:3606" ph=" }" />
+            <marker date="1493957150000" expanded="false" signature="3662:3673" ph=" { " />
+            <marker date="1493957150000" expanded="false" signature="3708:3714" ph=" }" />
+            <marker date="1493957150000" expanded="false" signature="3753:3764" ph=" { " />
+            <marker date="1493957150000" expanded="false" signature="3791:3797" ph=" }" />
+            <marker date="1493957150000" expanded="false" signature="3855:3866" ph=" { " />
+            <marker date="1493957150000" expanded="false" signature="3903:3909" ph=" }" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/AIO&amp;CannonKiller/com/script/Static.class">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding>
+            <marker date="1493957150000" expanded="false" signature="0:104" ph="/.../" />
+            <marker date="1493957150000" expanded="true" signature="751:758" ph="{}" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/AIO&amp;CannonKiller/com/script/AIOCannonKiller.class">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="5134">
+          <caret line="335" column="60" lean-forward="false" selection-start-line="335" selection-start-column="57" selection-end-line="335" selection-end-column="60" />
+          <folding>
+            <marker date="1493973188000" expanded="true" signature="0:104" ph="/.../" />
+            <marker date="1493973188000" expanded="false" signature="134:1119" ph="..." />
+            <marker date="1493973188000" expanded="true" signature="1121:1359" ph="@{...}" />
+            <marker date="1493973188000" expanded="true" signature="2128:2222" ph="{...}" />
+            <marker date="1493973188000" expanded="false" signature="2263:2274" ph=" { " />
+            <marker date="1493973188000" expanded="false" signature="2298:2304" ph=" }" />
+            <marker date="1493973188000" expanded="true" signature="2363:2405" ph="{...}" />
+            <marker date="1493973188000" expanded="true" signature="2433:2860" ph="{...}" />
+            <marker date="1493973188000" expanded="true" signature="2886:3286" ph="{...}" />
+            <marker date="1493973188000" expanded="true" signature="3353:5930" ph="{...}" />
+            <marker date="1493973188000" expanded="true" signature="5984:23569" ph="{...}" />
+            <marker date="1493973188000" expanded="false" signature="17205:17290" ph="evaluate() → {" />
+            <marker date="1493973188000" expanded="false" signature="17470:17513" ph="}" />
+            <marker date="1493973188000" expanded="true" signature="23611:24763" ph="{...}" />
+            <marker date="1493973188000" expanded="false" signature="24794:24805" ph=" { " />
+            <marker date="1493973188000" expanded="false" signature="24824:24830" ph=" }" />
+            <marker date="1493973188000" expanded="true" signature="24895:26953" ph="{...}" />
+            <marker date="1493973188000" expanded="true" signature="27014:28396" ph="{...}" />
+            <marker date="1493973188000" expanded="true" signature="28473:28791" ph="{...}" />
+            <marker date="1493973188000" expanded="true" signature="28827:29232" ph="{...}" />
+            <marker date="1493973188000" expanded="true" signature="29272:30847" ph="{...}" />
+            <marker date="1493973188000" expanded="true" signature="30919:31082" ph="{...}" />
+            <marker date="1493973188000" expanded="true" signature="31119:31357" ph="{...}" />
+            <marker date="1493973188000" expanded="true" signature="31420:32212" ph="{...}" />
+            <marker date="1493973188000" expanded="true" signature="32274:33338" ph="{...}" />
+            <marker date="1493973188000" expanded="true" signature="33378:33729" ph="{...}" />
+            <marker date="1493973188000" expanded="true" signature="33765:34386" ph="{...}" />
+            <marker date="1493973188000" expanded="false" signature="34165:34226" ph="evaluate() → {" />
+            <marker date="1493973188000" expanded="false" signature="34318:34337" ph="}" />
+            <marker date="1493973188000" expanded="true" signature="34441:38519" ph="{...}" />
+            <marker date="1493973188000" expanded="true" signature="38582:38767" ph="{...}" />
+            <marker date="1493973188000" expanded="true" signature="38831:39072" ph="{...}" />
+            <marker date="1493973188000" expanded="true" signature="39126:39817" ph="{...}" />
+            <marker date="1493973188000" expanded="true" signature="39868:40107" ph="{...}" />
+            <marker date="1493973188000" expanded="true" signature="40146:40439" ph="{...}" />
+            <marker date="1493973188000" expanded="true" signature="40422:40433" ph="{}" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/AIO&amp;CannonKiller/com/script/Preferences.class">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding>
+            <marker date="1493957150000" expanded="false" signature="0:104" ph="/.../" />
+            <marker date="1493957150000" expanded="false" signature="134:319" ph="..." />
+            <marker date="1493957150000" expanded="true" signature="945:1075" ph="{...}" />
+            <marker date="1493957150000" expanded="false" signature="1113:1124" ph=" { " />
+            <marker date="1493957150000" expanded="false" signature="1144:1150" ph=" }" />
+            <marker date="1493957150000" expanded="false" signature="1200:1211" ph=" { " />
+            <marker date="1493957150000" expanded="false" signature="1234:1240" ph=" }" />
+            <marker date="1493957150000" expanded="false" signature="1275:1286" ph=" { " />
+            <marker date="1493957150000" expanded="false" signature="1303:1309" ph=" }" />
+            <marker date="1493957150000" expanded="false" signature="1353:1364" ph=" { " />
+            <marker date="1493957150000" expanded="false" signature="1381:1387" ph=" }" />
+            <marker date="1493957150000" expanded="false" signature="1414:1425" ph=" { " />
+            <marker date="1493957150000" expanded="false" signature="1442:1448" ph=" }" />
+            <marker date="1493957150000" expanded="true" signature="1484:1495" ph=" { " />
+            <marker date="1493957150000" expanded="true" signature="1512:1518" ph=" }" />
+            <marker date="1493957150000" expanded="false" signature="1559:1570" ph=" { " />
+            <marker date="1493957150000" expanded="false" signature="1597:1603" ph=" }" />
+            <marker date="1493957150000" expanded="false" signature="1669:1680" ph=" { " />
+            <marker date="1493957150000" expanded="false" signature="1717:1723" ph=" }" />
+            <marker date="1493957150000" expanded="true" signature="1759:1770" ph=" { " />
+            <marker date="1493957150000" expanded="true" signature="1798:1804" ph=" }" />
+            <marker date="1493957150000" expanded="false" signature="1863:1874" ph=" { " />
+            <marker date="1493957150000" expanded="false" signature="1913:1919" ph=" }" />
+            <marker date="1493957150000" expanded="false" signature="1956:1967" ph=" { " />
+            <marker date="1493957150000" expanded="false" signature="1989:1995" ph=" }" />
+            <marker date="1493957150000" expanded="false" signature="2046:2057" ph=" { " />
+            <marker date="1493957150000" expanded="false" signature="2084:2090" ph=" }" />
+            <marker date="1493957150000" expanded="false" signature="2127:2138" ph=" { " />
+            <marker date="1493957150000" expanded="false" signature="2167:2173" ph=" }" />
+            <marker date="1493957150000" expanded="false" signature="2234:2245" ph=" { " />
+            <marker date="1493957150000" expanded="false" signature="2286:2292" ph=" }" />
+            <marker date="1493957150000" expanded="true" signature="2331:2342" ph=" { " />
+            <marker date="1493957150000" expanded="true" signature="2372:2378" ph=" }" />
+            <marker date="1493957150000" expanded="false" signature="2442:2453" ph=" { " />
+            <marker date="1493957150000" expanded="false" signature="2496:2502" ph=" }" />
+            <marker date="1493957150000" expanded="true" signature="2541:2552" ph=" { " />
+            <marker date="1493957150000" expanded="true" signature="2581:2587" ph=" }" />
+            <marker date="1493957150000" expanded="false" signature="2650:2661" ph=" { " />
+            <marker date="1493957150000" expanded="false" signature="2702:2708" ph=" }" />
+            <marker date="1493957150000" expanded="false" signature="2746:2757" ph=" { " />
+            <marker date="1493957150000" expanded="false" signature="2783:2789" ph=" }" />
+            <marker date="1493957150000" expanded="false" signature="2846:2857" ph=" { " />
+            <marker date="1493957150000" expanded="false" signature="2892:2898" ph=" }" />
+            <marker date="1493957150000" expanded="false" signature="2936:2947" ph=" { " />
+            <marker date="1493957150000" expanded="false" signature="2973:2979" ph=" }" />
+            <marker date="1493957150000" expanded="false" signature="3036:3047" ph=" { " />
+            <marker date="1493957150000" expanded="false" signature="3082:3088" ph=" }" />
+            <marker date="1493957150000" expanded="false" signature="3132:3143" ph=" { " />
+            <marker date="1493957150000" expanded="false" signature="3175:3181" ph=" }" />
+            <marker date="1493957150000" expanded="false" signature="3250:3261" ph=" { " />
+            <marker date="1493957150000" expanded="false" signature="3308:3314" ph=" }" />
+            <marker date="1493957150000" expanded="false" signature="3357:3368" ph=" { " />
+            <marker date="1493957150000" expanded="false" signature="3397:3403" ph=" }" />
+            <marker date="1493957150000" expanded="false" signature="3467:3478" ph=" { " />
+            <marker date="1493957150000" expanded="false" signature="3519:3525" ph=" }" />
+            <marker date="1493957150000" expanded="false" signature="3563:3574" ph=" { " />
+            <marker date="1493957150000" expanded="false" signature="3600:3606" ph=" }" />
+            <marker date="1493957150000" expanded="false" signature="3662:3673" ph=" { " />
+            <marker date="1493957150000" expanded="false" signature="3708:3714" ph=" }" />
+            <marker date="1493957150000" expanded="false" signature="3753:3764" ph=" { " />
+            <marker date="1493957150000" expanded="false" signature="3791:3797" ph=" }" />
+            <marker date="1493957150000" expanded="false" signature="3855:3866" ph=" { " />
+            <marker date="1493957150000" expanded="false" signature="3903:3909" ph=" }" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/AIO&amp;CannonKiller/com/script/data/Food.class">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="17">
+          <caret line="1" column="42" lean-forward="false" selection-start-line="1" selection-start-column="39" selection-end-line="1" selection-end-column="42" />
+          <folding>
+            <marker date="1493957150000" expanded="true" signature="0:104" ph="/.../" />
+            <marker date="1493957150000" expanded="false" signature="139:179" ph="..." />
+            <marker date="1493957150000" expanded="true" signature="657:866" ph="{...}" />
+            <marker date="1493957150000" expanded="true" signature="895:1022" ph="{...}" />
+            <marker date="1493957150000" expanded="false" signature="1064:1075" ph=" { " />
+            <marker date="1493957150000" expanded="false" signature="1100:1106" ph=" }" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/AIO&amp;CannonKiller/com/script/data/Overheads.class">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding>
+            <marker date="1493957150000" expanded="false" signature="0:104" ph="/.../" />
+            <marker date="1493957150000" expanded="true" signature="266:273" ph="{}" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/AIO&amp;CannonKiller/com/script/data/SafetyTeleport.class">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding>
+            <marker date="1493957150000" expanded="false" signature="0:104" ph="/.../" />
+            <marker date="1493957150000" expanded="false" signature="403:414" ph=" { " />
+            <marker date="1493957150000" expanded="false" signature="427:433" ph=" }" />
+            <marker date="1493957150000" expanded="false" signature="457:468" ph=" { " />
+            <marker date="1493957150000" expanded="false" signature="483:489" ph=" }" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/AIO&amp;CannonKiller/com/script/util/XPTracker.class">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding>
+            <marker date="1493957150000" expanded="false" signature="0:104" ph="/.../" />
+            <marker date="1493957150000" expanded="false" signature="139:236" ph="..." />
+            <marker date="1493957150000" expanded="true" signature="571:851" ph="{...}" />
+            <marker date="1493957150000" expanded="true" signature="877:1151" ph="{...}" />
+            <marker date="1493957150000" expanded="true" signature="1179:1518" ph="{...}" />
+            <marker date="1493957150000" expanded="true" signature="1572:1821" ph="{...}" />
+            <marker date="1493957150000" expanded="true" signature="1893:2128" ph="{...}" />
+            <marker date="1493957150000" expanded="true" signature="2200:2290" ph="{...}" />
+            <marker date="1493957150000" expanded="true" signature="2333:2450" ph="{...}" />
+            <marker date="1493957150000" expanded="true" signature="2498:2612" ph="{...}" />
+            <marker date="1493957150000" expanded="true" signature="2662:3049" ph="{...}" />
+            <marker date="1493957150000" expanded="true" signature="3117:3414" ph="{...}" />
+            <marker date="1493957150000" expanded="true" signature="3462:3585" ph="{...}" />
+            <marker date="1493957150000" expanded="true" signature="3624:3803" ph="{...}" />
+            <marker date="1493957150000" expanded="false" signature="3835:3846" ph=" { " />
+            <marker date="1493957150000" expanded="false" signature="3865:3871" ph=" }" />
+            <marker date="1493957150000" expanded="true" signature="3923:4028" ph="{...}" />
+            <marker date="1493957150000" expanded="false" signature="4060:4071" ph=" { " />
+            <marker date="1493957150000" expanded="false" signature="4093:4099" ph=" }" />
+            <marker date="1493957150000" expanded="false" signature="4129:4140" ph=" { " />
+            <marker date="1493957150000" expanded="false" signature="4160:4166" ph=" }" />
+            <marker date="1493957150000" expanded="true" signature="4216:4314" ph="{...}" />
+            <marker date="1493957150000" expanded="false" signature="4362:4373" ph=" { " />
+            <marker date="1493957150000" expanded="false" signature="4425:4431" ph=" }" />
+            <marker date="1493957150000" expanded="false" signature="4474:4485" ph=" { " />
+            <marker date="1493957150000" expanded="false" signature="4533:4539" ph=" }" />
+            <marker date="1493957150000" expanded="false" signature="4570:4581" ph=" { " />
+            <marker date="1493957150000" expanded="false" signature="4600:4606" ph=" }" />
+            <marker date="1493957150000" expanded="true" signature="4650:4742" ph="{...}" />
+            <marker date="1493957150000" expanded="true" signature="4788:4882" ph="{...}" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/AIO&amp;CannonKiller/com/script/Preferences.class">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="663">
+          <caret line="57" column="34" lean-forward="false" selection-start-line="57" selection-start-column="34" selection-end-line="57" selection-end-column="34" />
+          <folding>
+            <marker date="1493957150000" expanded="false" signature="0:104" ph="/.../" />
+            <marker date="1493957150000" expanded="false" signature="134:319" ph="..." />
+            <marker date="1493957150000" expanded="true" signature="945:1075" ph="{...}" />
+            <marker date="1493957150000" expanded="false" signature="1113:1124" ph=" { " />
+            <marker date="1493957150000" expanded="false" signature="1144:1150" ph=" }" />
+            <marker date="1493957150000" expanded="false" signature="1200:1211" ph=" { " />
+            <marker date="1493957150000" expanded="false" signature="1234:1240" ph=" }" />
+            <marker date="1493957150000" expanded="false" signature="1275:1286" ph=" { " />
+            <marker date="1493957150000" expanded="false" signature="1303:1309" ph=" }" />
+            <marker date="1493957150000" expanded="false" signature="1353:1364" ph=" { " />
+            <marker date="1493957150000" expanded="false" signature="1381:1387" ph=" }" />
+            <marker date="1493957150000" expanded="false" signature="1414:1425" ph=" { " />
+            <marker date="1493957150000" expanded="false" signature="1442:1448" ph=" }" />
+            <marker date="1493957150000" expanded="true" signature="1484:1495" ph=" { " />
+            <marker date="1493957150000" expanded="true" signature="1512:1518" ph=" }" />
+            <marker date="1493957150000" expanded="false" signature="1559:1570" ph=" { " />
+            <marker date="1493957150000" expanded="false" signature="1597:1603" ph=" }" />
+            <marker date="1493957150000" expanded="false" signature="1669:1680" ph=" { " />
+            <marker date="1493957150000" expanded="false" signature="1717:1723" ph=" }" />
+            <marker date="1493957150000" expanded="true" signature="1759:1770" ph=" { " />
+            <marker date="1493957150000" expanded="true" signature="1798:1804" ph=" }" />
+            <marker date="1493957150000" expanded="false" signature="1863:1874" ph=" { " />
+            <marker date="1493957150000" expanded="false" signature="1913:1919" ph=" }" />
+            <marker date="1493957150000" expanded="false" signature="1956:1967" ph=" { " />
+            <marker date="1493957150000" expanded="false" signature="1989:1995" ph=" }" />
+            <marker date="1493957150000" expanded="false" signature="2046:2057" ph=" { " />
+            <marker date="1493957150000" expanded="false" signature="2084:2090" ph=" }" />
+            <marker date="1493957150000" expanded="false" signature="2127:2138" ph=" { " />
+            <marker date="1493957150000" expanded="false" signature="2167:2173" ph=" }" />
+            <marker date="1493957150000" expanded="false" signature="2234:2245" ph=" { " />
+            <marker date="1493957150000" expanded="false" signature="2286:2292" ph=" }" />
+            <marker date="1493957150000" expanded="true" signature="2331:2342" ph=" { " />
+            <marker date="1493957150000" expanded="true" signature="2372:2378" ph=" }" />
+            <marker date="1493957150000" expanded="false" signature="2442:2453" ph=" { " />
+            <marker date="1493957150000" expanded="false" signature="2496:2502" ph=" }" />
+            <marker date="1493957150000" expanded="true" signature="2541:2552" ph=" { " />
+            <marker date="1493957150000" expanded="true" signature="2581:2587" ph=" }" />
+            <marker date="1493957150000" expanded="false" signature="2650:2661" ph=" { " />
+            <marker date="1493957150000" expanded="false" signature="2702:2708" ph=" }" />
+            <marker date="1493957150000" expanded="false" signature="2746:2757" ph=" { " />
+            <marker date="1493957150000" expanded="false" signature="2783:2789" ph=" }" />
+            <marker date="1493957150000" expanded="false" signature="2846:2857" ph=" { " />
+            <marker date="1493957150000" expanded="false" signature="2892:2898" ph=" }" />
+            <marker date="1493957150000" expanded="false" signature="2936:2947" ph=" { " />
+            <marker date="1493957150000" expanded="false" signature="2973:2979" ph=" }" />
+            <marker date="1493957150000" expanded="false" signature="3036:3047" ph=" { " />
+            <marker date="1493957150000" expanded="false" signature="3082:3088" ph=" }" />
+            <marker date="1493957150000" expanded="false" signature="3132:3143" ph=" { " />
+            <marker date="1493957150000" expanded="false" signature="3175:3181" ph=" }" />
+            <marker date="1493957150000" expanded="false" signature="3250:3261" ph=" { " />
+            <marker date="1493957150000" expanded="false" signature="3308:3314" ph=" }" />
+            <marker date="1493957150000" expanded="false" signature="3357:3368" ph=" { " />
+            <marker date="1493957150000" expanded="false" signature="3397:3403" ph=" }" />
+            <marker date="1493957150000" expanded="false" signature="3467:3478" ph=" { " />
+            <marker date="1493957150000" expanded="false" signature="3519:3525" ph=" }" />
+            <marker date="1493957150000" expanded="false" signature="3563:3574" ph=" { " />
+            <marker date="1493957150000" expanded="false" signature="3600:3606" ph=" }" />
+            <marker date="1493957150000" expanded="false" signature="3662:3673" ph=" { " />
+            <marker date="1493957150000" expanded="false" signature="3708:3714" ph=" }" />
+            <marker date="1493957150000" expanded="false" signature="3753:3764" ph=" { " />
+            <marker date="1493957150000" expanded="false" signature="3791:3797" ph=" }" />
+            <marker date="1493957150000" expanded="false" signature="3855:3866" ph=" { " />
+            <marker date="1493957150000" expanded="false" signature="3903:3909" ph=" }" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/AIO&amp;CannonKiller/com/script/Static.class">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding>
+            <marker date="1493957150000" expanded="false" signature="0:104" ph="/.../" />
+            <marker date="1493957150000" expanded="true" signature="751:758" ph="{}" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/AIO&amp;CannonKiller/com/script/util/Stopwatch.class">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding>
+            <marker date="1493957150000" expanded="false" signature="0:104" ph="/.../" />
+            <marker date="1493957150000" expanded="true" signature="255:341" ph="{...}" />
+            <marker date="1493957150000" expanded="true" signature="378:429" ph="{...}" />
+            <marker date="1493957150000" expanded="true" signature="460:536" ph="{...}" />
+            <marker date="1493957150000" expanded="false" signature="563:574" ph=" { " />
+            <marker date="1493957150000" expanded="false" signature="620:626" ph=" }" />
+            <marker date="1493957150000" expanded="false" signature="665:676" ph=" { " />
+            <marker date="1493957150000" expanded="false" signature="706:712" ph=" }" />
+            <marker date="1493957150000" expanded="false" signature="739:750" ph=" { " />
+            <marker date="1493957150000" expanded="false" signature="767:773" ph=" }" />
+            <marker date="1493957150000" expanded="false" signature="797:808" ph=" { " />
+            <marker date="1493957150000" expanded="false" signature="823:829" ph=" }" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/AIO&amp;CannonKiller/com/script/gui/Gui.class">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="238">
+          <caret line="64" column="99" lean-forward="false" selection-start-line="64" selection-start-column="99" selection-end-line="64" selection-end-column="99" />
+          <folding>
+            <marker date="1493957150000" expanded="false" signature="0:104" ph="/.../" />
+            <marker date="1493957150000" expanded="false" signature="138:900" ph="..." />
+            <marker date="1493957150000" expanded="true" signature="1993:2061" ph="{...}" />
+            <marker date="1493957150000" expanded="true" signature="2103:3220" ph="{...}" />
+            <marker date="1493957150000" expanded="true" signature="3263:3634" ph="{...}" />
+            <marker date="1493957150000" expanded="true" signature="3682:4229" ph="{...}" />
+            <marker date="1493957150000" expanded="true" signature="4265:12900" ph="{...}" />
+            <marker date="1493957150000" expanded="false" signature="8008:8087" ph="actionPerformed(e) → {" />
+            <marker date="1493957150000" expanded="false" signature="8368:8383" ph="}" />
+            <marker date="1493957150000" expanded="false" signature="8899:8978" ph="actionPerformed(e) → {" />
+            <marker date="1493957150000" expanded="false" signature="9250:9265" ph="}" />
+            <marker date="1493957150000" expanded="false" signature="10832:10911" ph="actionPerformed(e) → {" />
+            <marker date="1493957150000" expanded="false" signature="10970:10985" ph="}" />
+            <marker date="1493957150000" expanded="false" signature="11381:11460" ph="actionPerformed(e) → {" />
+            <marker date="1493957150000" expanded="false" signature="11524:11539" ph="}" />
+            <marker date="1493957150000" expanded="false" signature="11865:11961" ph="actionPerformed(e) → { " />
+            <marker date="1493957150000" expanded="false" signature="11981:12005" ph=" }" />
+            <marker date="1493957150000" expanded="true" signature="12946:12953" ph="{}" />
+            <marker date="1493957150000" expanded="true" signature="13002:13076" ph="{...}" />
+            <marker date="1493957150000" expanded="true" signature="13125:13132" ph="{}" />
+            <marker date="1493957150000" expanded="true" signature="13178:13189" ph=" { " />
+            <marker date="1493957150000" expanded="true" signature="13220:13226" ph=" }" />
+            <marker date="1493957150000" expanded="true" signature="13277:13284" ph="{}" />
+            <marker date="1493957150000" expanded="true" signature="13335:13342" ph="{}" />
+            <marker date="1493957150000" expanded="false" signature="13390:13401" ph=" { " />
+            <marker date="1493957150000" expanded="false" signature="13420:13426" ph=" }" />
+            <marker date="1493957150000" expanded="true" signature="13472:13479" ph="{}" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/AIO&amp;CannonKiller/com/script/AIOCannonKiller.class">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-6647">
+          <caret line="183" column="14" lean-forward="false" selection-start-line="183" selection-start-column="14" selection-end-line="183" selection-end-column="14" />
+          <folding>
+            <marker date="1493973188000" expanded="true" signature="0:104" ph="/.../" />
+            <marker date="1493973188000" expanded="false" signature="134:1119" ph="..." />
+            <marker date="1493973188000" expanded="true" signature="1121:1359" ph="@{...}" />
+            <marker date="1493973188000" expanded="true" signature="2128:2222" ph="{...}" />
+            <marker date="1493973188000" expanded="false" signature="2263:2274" ph=" { " />
+            <marker date="1493973188000" expanded="false" signature="2298:2304" ph=" }" />
+            <marker date="1493973188000" expanded="true" signature="2363:2405" ph="{...}" />
+            <marker date="1493973188000" expanded="true" signature="2433:2860" ph="{...}" />
+            <marker date="1493973188000" expanded="true" signature="2886:3286" ph="{...}" />
+            <marker date="1493973188000" expanded="true" signature="3353:5930" ph="{...}" />
+            <marker date="1493973188000" expanded="true" signature="5984:23569" ph="{...}" />
+            <marker date="1493973188000" expanded="false" signature="17205:17290" ph="evaluate() → {" />
+            <marker date="1493973188000" expanded="false" signature="17470:17513" ph="}" />
+            <marker date="1493973188000" expanded="true" signature="23611:24763" ph="{...}" />
+            <marker date="1493973188000" expanded="false" signature="24794:24805" ph=" { " />
+            <marker date="1493973188000" expanded="false" signature="24824:24830" ph=" }" />
+            <marker date="1493973188000" expanded="true" signature="24895:26953" ph="{...}" />
+            <marker date="1493973188000" expanded="true" signature="27014:28396" ph="{...}" />
+            <marker date="1493973188000" expanded="true" signature="28473:28791" ph="{...}" />
+            <marker date="1493973188000" expanded="true" signature="28827:29232" ph="{...}" />
+            <marker date="1493973188000" expanded="true" signature="29272:30847" ph="{...}" />
+            <marker date="1493973188000" expanded="true" signature="30919:31082" ph="{...}" />
+            <marker date="1493973188000" expanded="true" signature="31119:31357" ph="{...}" />
+            <marker date="1493973188000" expanded="true" signature="31420:32212" ph="{...}" />
+            <marker date="1493973188000" expanded="true" signature="32274:33338" ph="{...}" />
+            <marker date="1493973188000" expanded="true" signature="33378:33729" ph="{...}" />
+            <marker date="1493973188000" expanded="true" signature="33765:34386" ph="{...}" />
+            <marker date="1493973188000" expanded="false" signature="34165:34226" ph="evaluate() → {" />
+            <marker date="1493973188000" expanded="false" signature="34318:34337" ph="}" />
+            <marker date="1493973188000" expanded="true" signature="34441:38519" ph="{...}" />
+            <marker date="1493973188000" expanded="true" signature="38582:38767" ph="{...}" />
+            <marker date="1493973188000" expanded="true" signature="38831:39072" ph="{...}" />
+            <marker date="1493973188000" expanded="true" signature="39126:39817" ph="{...}" />
+            <marker date="1493973188000" expanded="true" signature="39868:40107" ph="{...}" />
+            <marker date="1493973188000" expanded="true" signature="40146:40439" ph="{...}" />
+            <marker date="1493973188000" expanded="true" signature="40422:40433" ph="{}" />
+          </folding>
         </state>
       </provider>
     </entry>

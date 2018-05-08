@@ -7,6 +7,8 @@ import org.osbot.rs07.api.ui.Skill;
 import org.osbot.rs07.script.Script;
 import org.osbot.rs07.script.ScriptManifest;
 
+import javax.print.DocFlavor;
+
 import static com.sun.deploy.config.JREInfo.getAll;
 
 /**
@@ -19,13 +21,15 @@ import static com.sun.deploy.config.JREInfo.getAll;
         name = "GobinNoPotion 0.1",
         version = 1.0)
 public class GobinNoPotion extends Script {
+    public GUI g;
+    public static boolean run = false;
 
     public static final int BANK_BOOTH_ID = 6943;
     public static final Area FIGHT_AREA = new Area(3135, 3237, 3155, 3223);
     public static final Area BANK_AREA = new Area(3092, 3245, 3095, 3241);
     public static final Position RESET_AGRO = new Position(3151, 3234, 0);
 
-    private String STRINGFOOD = "Herring";
+    public static String STRINGFOOD = "Herring";
 
     private String POTIONA = "Strength potion";
     private String POTIONB = "Energy potion";
@@ -81,140 +85,148 @@ public class GobinNoPotion extends Script {
 
     public void onStart() throws InterruptedException {
         super.onStart();
+        this.log("Loading GUI...");
+        this.g = new GUI(); //to be implemented with correct code
     }
 
 
     public int onLoop() throws InterruptedException {
+        //this.g = new GUI();
+        this.log("in onLoop(), BEFORE while (run)");
 
+        while (run) {
+            this.log("in onLoop(), AFTER while (run)");
 
-        if (getInventory().contains("Vial")) {
-            Item vial = getInventory().getItem("Vial");
-            vial.interact("Drop");
- //           log("Debug: checked and dropped Vial");
-        } else {
+            log("CHECK TO SEE IF IT CHANGED: " + STRINGFOOD);
+            if (getInventory().contains("Vial")) {
+                Item vial = getInventory().getItem("Vial");
+                vial.interact("Drop");
+                //           log("Debug: checked and dropped Vial");
+            } else {
 //            log("Debug: checked Vial");
-        }
+            }
 
 
-        switch (getState()) {
-            case WALKING_TO_FIGHT:
-                log("Debug: is in STATE.WALKING_TO_FIGHT");
+            switch (getState()) {
+                case WALKING_TO_FIGHT:
+                    log("Debug: is in STATE.WALKING_TO_FIGHT");
 
-                walking.webWalk(FIGHT_AREA.getRandomPosition());
+                    walking.webWalk(FIGHT_AREA.getRandomPosition());
 
-                break;
+                    break;
 
-            case FIND_TARGET:
-                log("Debug: is in STATE.FIND_TARGET.");
-                //below is for testing
-
-
-                GroundItem closestGroundItem = (GroundItem) groundItems.closest(LOOTLIST);
-
-                int myX = myPlayer().getPosition().getX();
-                int myY = myPlayer().getPosition().getY();
-
-                Area lootArea = new Area(myX - 2, myY + 2, myX + 2, myY - 2);
+                case FIND_TARGET:
+                    log("Debug: is in STATE.FIND_TARGET.");
+                    //below is for testing
 
 
-                if (!myPlayer().isUnderAttack()) {
-                    sleep(random(1500, 2000)); //was (2600, 3600)
+                    GroundItem closestGroundItem = (GroundItem) groundItems.closest(LOOTLIST);
 
-                    //where loot begins
+                    int myX = myPlayer().getPosition().getX();
+                    int myY = myPlayer().getPosition().getY();
 
-                    for (GroundItem g : groundItems.getAll()){
-                        //look at everything around
-                        int gX = g.getPosition().getX();
-                        int gY = g.getPosition().getY();
-                        if (lootArea.contains(gX, gY)){
-                            //is it close?
-  //                          log("grounditem near: " + g.getName());
-                            for (String ll : LOOTLIST){
-                                if (ll.equals(g.getName())){
-                                    //is is something we want?
-                                    g.interact("Take");
+                    Area lootArea = new Area(myX - 2, myY + 2, myX + 2, myY - 2);
+
+
+                    if (!myPlayer().isUnderAttack()) {
+                        sleep(random(1500, 2000)); //was (2600, 3600)
+
+                        //where loot begins
+
+                        for (GroundItem g : groundItems.getAll()) {
+                            //look at everything around
+                            int gX = g.getPosition().getX();
+                            int gY = g.getPosition().getY();
+                            if (lootArea.contains(gX, gY)) {
+                                //is it close?
+                                //                          log("grounditem near: " + g.getName());
+                                for (String ll : LOOTLIST) {
+                                    if (ll.equals(g.getName())) {
+                                        //is is something we want?
+                                        g.interact("Take");
 //                                    log("Debug: Picked up: " + g.getName());
-                                    sleepWhileMoving();
-                                    sleep(random(500,1000));
+                                        sleepWhileMoving();
+                                        sleep(random(500, 1000));
+                                    }
                                 }
+                            } else {
+                                //dont pick up the loot
                             }
-                        } else {
-                            //dont pick up the loot
                         }
-                    }
 
 
-                    if (target == null) {
-    //                    log("target is null");
-                        target = npcs.closest(needToKill);
-      //                  log("target is: " + target);
-                        if (target.isOnScreen()) {
-        //                    log("target is chosen");
-                            if (!target.isUnderAttack()) {
-                                target.interact("Attack");
-                                sleepWhileMoving();
-                            } else {
-   //                             log("Debug: Target is underattack, running to new position for another target");
-                                target = null;
-                                walking.webWalk(FIGHT_AREA.getRandomPosition());
-                            }
-                        } else {
-                            walking.webWalk(target.getPosition());
-                        }
-                    } else {
-                        if (target.exists()) {
-                            if (!target.isUnderAttack()) {
-     //                           log("target is NOT null, trying to interact(attack)");
-                                walking.webWalk(target.getPosition());
-                                target.interact("Attack");
-                                sleepWhileMoving();
-                            } else {
-       //                         log("Debug: Target is underattack, running to new position for another target");
-                                target = null;
-                                walking.webWalk(FIGHT_AREA.getRandomPosition());
-                            }
-                        }
-                        else {
+                        if (target == null) {
+                            //                    log("target is null");
                             target = npcs.closest(needToKill);
-//                            log("change the dead npc to a new one");
-                        }
-                    }
-                }
-
-                return random (250,650);
-
-
-            case FIGHTING:
-                log("Debug: is in STATE.FIGHTING.");
-                target = null;
-                //reset the target so that when FIND_TARGET runs again, it will be a new target
-
-                //check to see the the npc that we are fighting is the target that we want
-                if (myPlayer().isUnderAttack()&& combat.getFighting() != null) {
-//                    log("we are fighting: " + combat.getFighting().getName());
-                    if (combat.getFighting().getName().equals(needToKill)) {
-
-                        if (100 * this.skills.getDynamic(Skill.HITPOINTS) / this.skills.getStatic(Skill.HITPOINTS) <= 50) {
-  //                          log("HP is too low");
-                            if (inventory.contains(STRINGFOOD)) {
-                                getInventory().getItem(STRINGFOOD).interact("Eat");
-    //                            log("Debug: just ate a " + STRINGFOOD);
-
+                            //                  log("target is: " + target);
+                            if (target.isOnScreen()) {
+                                //                    log("target is chosen");
+                                if (!target.isUnderAttack()) {
+                                    target.interact("Attack");
+                                    sleepWhileMoving();
+                                } else {
+                                    //                             log("Debug: Target is underattack, running to new position for another target");
+                                    target = null;
+                                    walking.webWalk(FIGHT_AREA.getRandomPosition());
+                                }
                             } else {
-                                return random(100, 500);
+                                walking.webWalk(target.getPosition());
                             }
                         } else {
-      //                      log("Debug: have enough HP");
+                            if (target.exists()) {
+                                if (!target.isUnderAttack()) {
+                                    //                           log("target is NOT null, trying to interact(attack)");
+                                    walking.webWalk(target.getPosition());
+                                    target.interact("Attack");
+                                    sleepWhileMoving();
+                                } else {
+                                    //                         log("Debug: Target is underattack, running to new position for another target");
+                                    target = null;
+                                    walking.webWalk(FIGHT_AREA.getRandomPosition());
+                                }
+                            } else {
+                                target = npcs.closest(needToKill);
+//                            log("change the dead npc to a new one");
+                            }
                         }
-                    } else {
-                        log("being attacked by not target");
-                        walking.webWalk(RESET_AGRO);
                     }
-                }
+                    if (run == false) {
+                        return 2000;
+                    } else {
+                        return random(250, 650);
+                    }
 
-                break;
+                case FIGHTING:
+                    log("Debug: is in STATE.FIGHTING.");
+                    target = null;
+                    //reset the target so that when FIND_TARGET runs again, it will be a new target
 
-                        //repsonsible for picking up loots
+                    //check to see the the npc that we are fighting is the target that we want
+                    if (myPlayer().isUnderAttack() && combat.getFighting() != null) {
+//                    log("we are fighting: " + combat.getFighting().getName());
+                        if (combat.getFighting().getName().equals(needToKill)) {
+
+                            if (100 * this.skills.getDynamic(Skill.HITPOINTS) / this.skills.getStatic(Skill.HITPOINTS) <= 50) {
+                                //                          log("HP is too low");
+                                if (inventory.contains(STRINGFOOD)) {
+                                    getInventory().getItem(STRINGFOOD).interact("Eat");
+                                    //                            log("Debug: just ate a " + STRINGFOOD);
+
+                                } else {
+                                    return random(100, 500);
+                                }
+                            } else {
+                                //                      log("Debug: have enough HP");
+                            }
+                        } else {
+                            log("being attacked by not target");
+                            walking.webWalk(RESET_AGRO);
+                        }
+                    }
+
+                    break;
+
+                //repsonsible for picking up loots
 /*
                     groundItem = (GroundItem) groundItems.closest(LOOTLIST);
                     if (groundItem != null) {
@@ -294,41 +306,39 @@ public class GobinNoPotion extends Script {
                 */
 
 
+                case BANKING:
+                    log("Debug: is in STATE.BANKING");
+                    walking.webWalk(BANK_AREA.getRandomPosition()); // LAMBDA EXPRESSIONS ARE V IMPORTANT, for choosing nearst with filter<>
+                    bankBooth = getObjects().closest(BANK_BOOTH_ID);
 
+                    if (!bank.isOpen()) {
+                        bankBooth.interact("Bank");
+                    }
+                    sleepWhileMoving();
 
-            case BANKING:
-                log("Debug: is in STATE.BANKING");
-                walking.webWalk(BANK_AREA.getRandomPosition()); // LAMBDA EXPRESSIONS ARE V IMPORTANT, for choosing nearst with filter<>
-                bankBooth = getObjects().closest(BANK_BOOTH_ID);
-
-                if (!bank.isOpen()) {
-                    bankBooth.interact("Bank");
-                }
-                sleepWhileMoving();
-
-                bankItems = bank.getItems();
-                if (bankItems != null) {
-                    log("bank is NOT null");
-                } else {
-                    log("bankItems IS null");
-                }
-
-                bank.depositAll();
-
-                sleep(random(500, 1000));
-                if (inventory.isEmpty()) {
-                    if (bank.contains(STRINGFOOD) && getBank().getAmount(STRINGFOOD) >= 5) {
-                        log("Debug: " + STRINGFOOD + " found in bank and enough");
-                        getBank().withdraw((STRINGFOOD), 15); //but now we needa check that there are enough space in the inventory to withdraw
-                        sleep(random(1000, 1500));
-                        log("Debug: withdrew missing STRINGFOOD");
+                    bankItems = bank.getItems();
+                    if (bankItems != null) {
+                        log("bank is NOT null");
                     } else {
-                        log("Debug: " + STRINGFOOD + " not found in bank or not enough");
-                        bot.getScriptExecutor().stop();
+                        log("bankItems IS null");
                     }
 
+                    bank.depositAll();
 
-                    sleep(random(100, 1500));
+                    sleep(random(500, 1000));
+                    if (inventory.isEmpty()) {
+                        if (bank.contains(STRINGFOOD) && getBank().getAmount(STRINGFOOD) >= 5) {
+                            log("Debug: " + STRINGFOOD + " found in bank and enough");
+                            getBank().withdraw((STRINGFOOD), 15); //but now we needa check that there are enough space in the inventory to withdraw
+                            sleep(random(1000, 1500));
+                            log("Debug: withdrew missing STRINGFOOD");
+                        } else {
+                            log("Debug: " + STRINGFOOD + " not found in bank or not enough");
+                            bot.getScriptExecutor().stop();
+                        }
+
+
+                        sleep(random(100, 1500));
 
 /*
                     for (String potionName : LISTOFPOTIONS) {
@@ -351,21 +361,23 @@ public class GobinNoPotion extends Script {
                     }
                     */
 
-                } else {
-                    bank.depositAll();
-                }
+                    } else {
+                        bank.depositAll();
+                    }
 
-                break;
+                    break;
 
 
-            case IDLE:
-                log("Debug: is in STATE.IDLE");
-                walking.webWalk(BANK_AREA.getRandomPosition());
-                bot.getScriptExecutor().stop();
+                case IDLE:
+                    log("Debug: is in STATE.IDLE");
+                    walking.webWalk(BANK_AREA.getRandomPosition());
+                    bot.getScriptExecutor().stop();
 
-                break;
+                    break;
+            }
+
+            return random(500, 1000);
         }
-
         return random(500, 1000);
     }
 
@@ -401,8 +413,8 @@ public class GobinNoPotion extends Script {
         }
     }
 
-    public void checkForLowHP() {
-
+    public static void setRunTrue() {
+        run = true;
     }
 
     public void onExit() throws InterruptedException {

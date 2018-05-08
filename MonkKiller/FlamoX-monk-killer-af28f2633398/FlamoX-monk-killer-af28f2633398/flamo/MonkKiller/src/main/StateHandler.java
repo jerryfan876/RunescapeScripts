@@ -65,7 +65,7 @@ public class StateHandler {
                 });
                 break;
             case HEALING:
-                if (api.getDialogues().inDialogue() ) {
+                if (api.getDialogues().inDialogue()) {
                     api.getDialogues().completeDialogue("Can you heal me? I'm injured.");
                 } else {
                     NPC healMonk = api.getNpcs().closest((Filter<NPC>) npc -> (npc.getName().equals("Monk") || npc.getName().equals("Abbot Langley")) && npc.getHealthPercent() > 0);
